@@ -164,9 +164,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
   
-上手くいかなくなったときはいったんリセットすると直ることがあります。  
-![](img/remap4.png)  
-
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
