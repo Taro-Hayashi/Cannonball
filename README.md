@@ -171,15 +171,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ゴム足を外して両面テープで固定すると安定します。  
 跡が残るといけないので画面には保護フィルムを貼ってください。  
 
-## おまけ
-寸法です。ダンボールで作れるペーパークラフトもあります。
-![](img/size.png)　　
-![](img/danbo.jpg)　　
-- [realsizeA4.pdf](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/realsizeA4.pdf)  
-- ネットプリント番号: SD9TTJJF 8/12まで　
-
-A4サイズです。定規があればプリントしなくても作れます。
-
+## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
   
@@ -190,7 +182,7 @@ VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/re
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。 
-販売ページ: https://tarohayashi.booth.pm/items/3154474
+販売ページ: https://tarohayashi.booth.pm/items/3172502
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
