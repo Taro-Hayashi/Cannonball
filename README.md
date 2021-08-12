@@ -173,11 +173,15 @@ VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/re
 [shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
-ご不明な点があればBOOTHのメッセージかtwitterのリプライでいつでも聞いてください。 
+ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。 
 販売ページ: https://tarohayashi.booth.pm/items/3172502
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
+
+plut0nium様のフットプリントを流用、改変して使わせていただきました。 
+https://github.com/plut0nium/0xLib
+https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
