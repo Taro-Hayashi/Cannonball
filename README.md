@@ -39,7 +39,7 @@
 |部品名|数|||
 |-|-|-|-|
 |表面実装タイプのダイオード|13||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
-|SK6812MINI-E|9|光らせたい場合[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+|SK6812MINI-E|9|光らせたい場合。[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
 |WS2812B|3|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
  
 ## 必要な工具
