@@ -165,7 +165,7 @@ ChromeかEdgeでRemapにアクセスしてください。
   
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/shotgun
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
   
 VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
   
