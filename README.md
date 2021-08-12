@@ -179,9 +179,9 @@ VIA用JSONファイル [shotgun.json](https://github.com/Taro-Hayashi/Shotgun/re
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
-
+  
 plut0nium様のフットプリントを流用、改変して使わせていただきました。 
-https://github.com/plut0nium/0xLib
-https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
-
+https://github.com/plut0nium/0xLib  
+https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
+  
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
