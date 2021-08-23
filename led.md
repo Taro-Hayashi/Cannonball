@@ -4,23 +4,23 @@ LEDのはんだ付けはいつ行っても大丈夫です。
 失敗しても光らないだけなので気軽に挑戦してみてください。   
 
 LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付けしましょう。  
-![](img/led1.jpeg)  
+![](img/led01.jpg)  
+![](img/led02.jpg)  
 向きがバラバラなので毎回確認してください。  
-メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。
-青丸はキースイッチを固定するだけの穴なので回路上どことも接続しておらずはんだが繋がってしまっても大丈夫ですが、穴が埋まってしまうとchoc v2の場合スイッチが入らなくなります。  
-先にLEDを取り付ける予定の人ははんだ吸い取り線等を用意してください。  
-![](img/led1_5.jpg)  
+メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。 
+![](img/led03.jpg)   
+両側のランドにはんだを乗せやすいようにLEDは中央に置くことを意識するといいと思います。  
   
 LEDテスト用のファームウェアです。  
 - [ledtest_default.tex](https://github.com/Taro-Hayashi/Pop-n-Top/releases/download/1.0/ledtest_default.hex)  
   
 LEDは直列に配線されています。  
-![](img/led2.jpeg)  
+![](img/led04.jpg)  
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。   
 
 はんだ付けするだけでLEDが使えるようになります。  
 ESC長押しでRGB操作用のレイヤーになります。  
 ![](img/layoutrgb.png)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_backcolor=#fffffff&name=Layout%20-%20Pop'n%20Top%20KEYBOARD%20US&author=T.Hayashi;&@_c=#777777&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#cf7e7e;&=!&=/@&=#&=$&=%25&_st=PG151101D05//D43;&=~&_x:3&c=#cccccc;&=&_c=#cf7e7e;&=F1&=F2&=F3&=F4&=F5&=F6&_c=#cccccc;&=&_c=#cf7e7e&w:2;&=Delete;&@_x:0.75&c=#aaaaaa&w:1.75;&=&_c=#cf7e7e;&=%5E&=/&&=*&_n:true;&=(&=)&_c=#aaaaaa&w:1.5;&=&_x:2&w:1.5;&=&_c=#cf7e7e;&=F7&_n:true;&=F8&=F9&=F10&=F11&=F12&_c=#d99393&w:2;&=↑;&@_x:0.5&c=#aaaaaa&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#cf7e7e;&=&_c=#aaaaaa;&=&_x:1;&=&=&_c=#cccccc;&=&=&=&=&=&_c=#d99393;&=←&_w:1.75;&=↓&_fa@:2;;&=→;&@_y:-0.25&x:8.75&c=#cccccc&t=#c91818&a:5&f:3&w:2.5&d:true;&=↑%0AUPPER%20LAYER;&@_y:-0.25&c=#777777&t=#000000%0A#dbbc1f&f2:2;&=esc%0A長押しRGB&_c=#aaaaaa&t=#000000&a:7&w:1.5;&=Tab&_c=#cccccc;&=Q&=W&=E&=R&=T&_a:5&f:3;&=/_%0A%0A%0A%0A%0A%0A-&_x:3&f:3;&=+%0A%0A%0A%0A%0A%0A/=&_a:7;&=Y&=U&=I&=O&=P&_a:5&f:3;&=%7B%0A%0A%0A%0A%0A%0A%5B&_f:3;&=%7D%0A%0A%0A%0A%0A%0A%5D&_c=#aaaaaa&a:7&w:2;&=Backspace;&@_x:0.75&w:1.75;&=Control&_c=#cccccc;&=A&=S&=D&_n:true;&=F&=G&_c=#aaaaaa&w:1.5;&=Space&_x:2&w:1.5;&=Space&_c=#cccccc;&=H&_n:true;&=J&=K&=L&_a:5&f:3;&=/:%0A%0A%0A%0A%0A%0A/;&_f:3;&=%22%0A%0A%0A%0A%0A%0A'&_c=#aaaaaa&a:7&w:2;&=Enter;&@_x:0.5&w:2;&=Shift&_c=#cccccc;&=Z&=X&=C&=V&=B&_c=#aaaaaa&t=#c91818&a:5&fa@:2;;&=UPPER&_t=#000000&fa@:2&:1;;&=Space%0A長押し%20Alt&_x:1&f2:1;&=Space%0A長押し%20Win&_t=#000000%0A#152bab&f2:2;&=%0ALOWER&_c=#cccccc&t=#000000&a:7&fa@:2;;&=N&=M&_a:5&f:3;&=%3C%0A%0A%0A%0A%0A%0A,&_f:3;&=%3E%0A%0A%0A%0A%0A%0A.&_f:3;&=?%0A%0A%0A%0A%0A%0A//&_f:3;&=%7C%0A%0A%0A%0A%0A%0A%5C&_c=#aaaaaa&a:7&f:3&w:1.75;&=Shift&_a:5&fa@:2&:1&:0&:0&:0&:0&:2;;&=%0A(alt+%60)%0A%0A%0A%0A%0AIME切り替え;&@_x:8.75&c=#cccccc&t=#152bab#1d2c8c%0A#152bab&f:3&w:2.5&d:true;&=LOWER%E3%80%80LAYER%0A↓;&@_y:-0.5&c=#777777&t=#000000&a:7;&=&_c=#aaaaaa&w:1.5;&=&_c=#8792d6&a:5&f:3;&=!%0A%0A%0A%0A%0A%0A1&_f:3;&=/@%0A%0A%0A%0A%0A%0A2&_f:3;&=#%0A%0A%0A%0A%0A%0A3&_f:3;&=$%0A%0A%0A%0A%0A%0A4&_f:3;&=%25%0A%0A%0A%0A%0A%0A5&_f:3;&=~%0A%0A%0A%0A%0A%0A%60&_x:3&c=#cccccc&a:7;&=&=&=&=&=&=&_c=#8792d6&f:3;&=(&_f:3;&=)&_c=#aaaaaa&w:2;&=;&@_x:0.75&w:1.75;&=&_c=#8792d6&a:5&f:3;&=%5E%0A%0A%0A%0A%0A%0A6&_f:3;&=/&%0A%0A%0A%0A%0A%0A7&_f:3;&=*%0A%0A%0A%0A%0A%0A8&_f:3&n:true;&=(%0A%0A%0A%0A%0A%0A9&_f:3;&=)%0A%0A%0A%0A%0A%0A0&_c=#aaaaaa&a:7&w:1.5;&=&_x:2&w:1.5;&=&_c=#8792d6&f:3;&=←&_f:3&n:true;&=↓&_f:3;&=↑&_f:3;&=→&_c=#cccccc;&=&=&_c=#aaaaaa&w:2;&=;&@_x:0.5&w:2;&=&_c=#cccccc;&=&=&=&=&=&_c=#aaaaaa;&=&=&_x:1;&=&_c=#8792d6;&=&_c=#cccccc;&=&=&=&=&=&=&_c=#aaaaaa&f:3&w:1.75;&=shift&=;&@_y:0.75&c=#e0cb58;&=&_c=#aaaaaa&w:1.5;&=&_c=#e0cb58&f:3;&=色相+&_f:3;&=彩度+&_f:3;&=明度+&_fa@:1;;&=スピード+&_c=#cccccc;&=&=&_x:0.25&t=#a18806&a:5&f:3&w:2.5&d:true;&=RGB%20LAYER&_x:0.25&t=#000000&a:7;&=&=&=&=&=&=&=&=&_c=#aaaaaa&w:2;&=;&@_x:1&c=#e0cb58&fa@:2;&w:1.5;&=前のパターン&_c=#cccccc;&=&=&=&_n:true;&=&=&_c=#e0cb58&w:2;&=次のパターン&_x:1.5&c=#aaaaaa&w:1.5;&=&_c=#cccccc;&=&_n:true;&=&=&=&=&=&_c=#aaaaaa&w:2;&=;&@_x:0.5&w:2;&=&_c=#e0cb58&f:3;&=色相-&_f:3;&=彩度-&_f:3;&=明度-&_fa@:1;;&=スピード%20-&_c=#cccccc;&=&_c=#aaaaaa;&=&_c=#e0cb58&fa@:2;;&=ON//OFF&_x:1&c=#aaaaaa;&=&_c=#cccccc;&=&=&=&=&=&=&=&_c=#aaaaaa&w:1.75;&=&=) 
+[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_backcolor=%23ffffff&name=Layout%20-%20Breeseblock%20CURSORPAD%3B&@_x:1.25&a:7%3B&=Print%20Screen&=home&=end&=back%20space&_x:0.5&t=%23a18806&d:true%3B&=RGB&_c=%23e0cb58&t=%23000000%3B&=%E8%89%B2%E7%9B%B8+&=%E5%BD%A9%E5%BA%A6+&=%E6%98%8E%E5%BA%A6+&_fa@:1%3B%3B&=%E5%89%8D%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%3B&@_x:0.25&c=%23777777&a:5&f2:0%3B&=%E6%8B%A1%E5%A4%A7%0A%E7%B8%AE%E5%B0%8F&_fa@:0&:0&:0&:0&:0&:0&:1%3B%3B&=%E2%86%91%0A%E2%86%93%0A%0A%0A%0A%0A%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB&_c=%23cccccc&a:7%3B&=%E2%86%91&_c=%23777777&a:4&fa@:0&:0&:0&:0&:0&:0&:1&:0&:0&:1%3B%3B&=%0A%E2%86%90%0A%0A%E2%86%92%0A%0A%0A%0A%0A%0A%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB&_c=%23aaaaaa&t=%23000000%0A%23d4ff24&a:5&f:3&h:2%3B&=%0A%E9%95%B7%E6%8A%BC%E3%81%97LED%0A%0A%0A%0A%0Aenter&_x:0.5&c=%23e0cb58&t=%23000000&a:7&fa@:1%3B%3B&=ON%2F%2FOFF&_c=%23cccccc%3B&=&_c=%23e0cb58%3B&=%E6%AC%A1%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&_c=%23cccccc%3B&=&_c=%23e0cb58&h:2%3B&=%3B&@_x:1.25&c=%23cccccc&f:3%3B&=%E2%86%90&_f:3%3B&=%E2%86%93&_f:3%3B&=%E2%86%92&_x:2.5&c=%23e0cb58&f:3%3B&=%E8%89%B2%E7%9B%B8-&_f:3%3B&=%E5%BD%A9%E5%BA%A6-&_f:3%3B&=%E6%98%8E%E5%BA%A6-%3B&@_r:-45&ry:3.5&y:-0.25&x:0.25&c=%23777777&a:5&fa@:0&:1&:0&:0&:0&:0&:0%3B%3B&=%E5%89%8D%E3%81%AE%E3%82%BF%E3%83%96%0A%E6%AC%A1%E3%81%AE%E3%82%BF%E3%83%96%3B&@_ry:5.25&y:2.25&x:5.25&c=%23e0cb58&fa@:1&:1%3B%3B&=%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89+%0A%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89-) 
 
 ブラウザの機能で戻ってください。
