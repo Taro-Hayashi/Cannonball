@@ -198,10 +198,10 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/done.jpg)  
 
 ## キーマップの確認、変更方法
-このキットはレイヤー機能を使っています。
-![](img/layout.jpg)
+このキットはレイヤー機能を使っています。  
+![](img/layout.jpg)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/##@_backcolor=#ffffff&name=Layout%20-%20Breeseblock%20CURSORPAD;&@_x:1.25&a:7;&=Print%20Screen&=home&=end&=back%20space&_x:0.5&t=#a18806&d:true;&=RGB&_c=#e0cb58&t=#000000;&=%E8%89%B2%E7%9B%B8+&=%E5%BD%A9%E5%BA%A6+&=%E6%98%8E%E5%BA%A6+&_fa@:1;;&=%E5%89%8D%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3;&@_x:0.25&c=#777777&a:5;&=%E6%8B%A1%E5%A4%A7%0A%E7%B8%AE%E5%B0%8F&_fa@:0&:0&:0&:0&:0&:0&:1;;&=%E2%86%91%0A%E2%86%93%0A%0A%0A%0A%0A%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB&_c=#cccccc&a:7;&=%E2%86%91&_c=#777777&a:4&fa@:0&:0&:0&:0&:0&:0&:1&:0&:0&:1;;&=%0A%E2%86%90%0A%0A%E2%86%92%0A%0A%0A%0A%0A%0A%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB&_c=#aaaaaa&t=#000000%0A#d4ff24&a:5&f:3&h:2;&=%0A%E9%95%B7%E6%8A%BC%E3%81%97LED%0A%0A%0A%0A%0Aenter&_x:0.5&c=#e0cb58&t=#000000&a:7&fa@:1;;&=ON//OFF&_c=#cccccc;&=&_c=#e0cb58;&=%E6%AC%A1%E3%81%AE%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3&_c=#cccccc;&=&_c=#e0cb58&h:2;&=;&@_x:1.25&c=#cccccc&f:3;&=%E2%86%90&_f:3;&=%E2%86%93&_f:3;&=%E2%86%92&_x:2.5&c=#e0cb58&f:3;&=%E8%89%B2%E7%9B%B8-&_f:3;&=%E5%BD%A9%E5%BA%A6-&_f:3;&=%E6%98%8E%E5%BA%A6-;&@_r:-45&ry:3.5&y:-0.25&x:0.25&c=#777777&a:5&f2:1;&=%E5%89%8D%E3%81%AE%E3%82%BF%E3%83%96%0A%E6%AC%A1%E3%81%AE%E3%82%BF%E3%83%96;&@_ry:5.25&y:2.25&x:5.25&c=#e0cb58&fa@:1&:1;;&=%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89+%0A%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89-)  
-
+  
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
   
 ChromeかEdgeでRemapにアクセスしてください。  
