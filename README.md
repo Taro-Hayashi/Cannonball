@@ -224,7 +224,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
   
 VIA用JSONファイル
-- 右手用 [cannonball_right.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
+- 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
 - 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
   
 ミドル、ボトムプレートのデザインデータ  
