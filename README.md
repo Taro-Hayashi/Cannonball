@@ -216,7 +216,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 ## 左手で使う場合
 左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
 - [cannonball_left.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
-![](img/remap4.png)  
+![](img/remapleft.png)  
   
   
 ## その他
