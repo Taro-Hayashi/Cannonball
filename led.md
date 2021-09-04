@@ -12,7 +12,7 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 両側のランドにはんだを乗せやすいようにLEDは中央に置くことを意識するといいと思います。  
   
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/ledtest_default.hex)  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/ledtest_default.hex)  
   
 LEDは直列に配線されています。  
 ![](img/led04.jpg)  
