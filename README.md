@@ -152,7 +152,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_test.hex)
+- テスト用ファームウェア [cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
