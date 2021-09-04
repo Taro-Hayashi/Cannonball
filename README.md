@@ -152,7 +152,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_test.hex)
+- テスト用ファームウェア [shotgun_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -191,7 +191,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom06.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [cannonball_via.hex](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun_via.hex)
+- [cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/rubber.jpg)  
@@ -215,7 +215,7 @@ ChromeかEdgeでRemapにアクセスしてください。
   
 ## 左手で使う場合
 左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
-- [cannonball_left.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
+- [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_left.json)  
 ![](img/remapleft.png)  
   
   
@@ -224,11 +224,11 @@ ChromeかEdgeでRemapにアクセスしてください。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
   
 VIA用JSONファイル
-- 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
-- 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.json)  
+- 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball.json)  
+- 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_left.json)  
   
 ミドル、ボトムプレートのデザインデータ  
-[shotgun_plates.zip](https://github.com/Taro-Hayashi/Shotgun/releases/download/1.0/shotgun.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。  
