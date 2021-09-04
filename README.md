@@ -152,7 +152,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_test.hex)
+- テスト用ファームウェア [cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/cannonball_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -191,7 +191,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom06.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_via.hex)
+- [cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/cannonball_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/rubber.jpg)  
