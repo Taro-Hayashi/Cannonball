@@ -239,7 +239,7 @@ foostan様のフットプリントを流用、改変して使わせていただ�
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
   
-plut0nium様のフットプリントを流用、改変して使わせていただきました。 
+plut0nium様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/plut0nium/0xLib  
 https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
   
