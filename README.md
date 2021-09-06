@@ -232,7 +232,7 @@ VIA用JSONファイル
 発注先のルールに沿ってデータを修正してください。  
 
 ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。  
-販売ページ: https://tarohayashi.booth.pm/items/3172502
+販売ページ: https://tarohayashi.booth.pm/items/3172502  
 遊舎工房: Coming Soon  
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
