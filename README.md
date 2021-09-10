@@ -229,10 +229,6 @@ VIA用JSONファイル
 ミドル、ボトムプレートのデザインデータ  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
-
-ご不明な点があればBOOTHのメッセージやtwitterでいつでも聞いてください。  
-BOOTH: https://tarohayashi.booth.pm/items/3172502  
-遊舎工房: https://shop.yushakobo.jp/products/2797 
   
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
