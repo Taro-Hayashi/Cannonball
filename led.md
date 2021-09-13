@@ -7,13 +7,13 @@ LEDの切り欠きとシルク印刷のコーナーを合わせてはんだ付�
 ![](img/led01.jpg)  
 ![](img/led02.jpg)  
 向きがバラバラなので毎回確認してください。  
-メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。 
+メインボードにフラックスを塗り、こて先にのせたはんだを流し込むようにするとスムーズに付けられます。
 ![](img/led03.jpg)   
 両側のランドにはんだを乗せやすいようにLEDは中央に置くことを意識するといいと思います。  
-  
+
 LEDテスト用のファームウェアです。  
-- [ledtest_default.tex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/ledtest_default.hex)  
-  
+- [ledtest_default.tex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/ledtest_default.hex)  
+
 LEDは直列に配線されています。  
 ![](img/led04.jpg)  
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。   
@@ -21,6 +21,6 @@ LEDは直列に配線されています。
 はんだ付けするだけでLEDが使えるようになります。  
 ENTER長押しでRGB操作用のレイヤーになります。  
 ![](img/ledlayout.png)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef) 
+[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)
 
 ブラウザの機能で戻ってください。
