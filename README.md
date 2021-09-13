@@ -218,7 +218,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 
 ## 左手で使う場合
 左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
-- [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_left.json)  
+- [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 ![](img/remapleft.png)  
 
 
@@ -231,7 +231,7 @@ VIA用JSONファイル
 - 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
 ミドル、ボトムプレートのデザインデータ  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/1.0/cannonball_plates.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
