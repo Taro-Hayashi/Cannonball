@@ -98,7 +98,7 @@ https://twitter.com/w_vwbw/status/1440305043870154764
 ![](img/reset2.jpg)  
 
 キースイッチを表から差し込み裏ではんだ付けします。  
-![](img/keyswitch1.jpg)
+![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
 choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
