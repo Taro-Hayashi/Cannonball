@@ -1,6 +1,7 @@
-# 不具合のお知らせ
-取り急ぎtwitterにて告知いたしましたのでご覧ください。
-https://twitter.com/w_vwbw/status/1436416667395903488
+# 9月10日にご購入されたお客さまへ
+機能の一部に不具合がございます。  
+修正した基板の発送をご案内していますのでご覧ください。  
+https://twitter.com/w_vwbw/status/1440305043870154764
 
 # Cannonball カーソルパッド ビルドガイド
 - [キット内容](#キット内容)
@@ -11,7 +12,7 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 - [おまけ](#おまけ)
 
 ## キット内容
-![パーツ一覧](img/parts2.jpg)  
+![](IMG_3152.jpg)
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
@@ -29,7 +30,7 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 |13|ロータリーエンコーダ（水平型）|1|EC11互換品|
 |14|ノブ|1||
 |15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
-|16|レバースイッチ|2|SLLB120300, TMHU28([秋月電子様販売ページ](https://akizukidenshi.com/catalog/g/gP-08072/))|
+|16|レバースイッチ|2|メインボードに取り付け済み。[取り付け方](lever.md)|
 |17|ゴム足|6||
 
 ## キット以外に必要なもの
@@ -53,8 +54,6 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 |はんだごて||
 |はんだごて置き場||
 |鉛入りはんだ||
-|フラックス||
-|ピンセット||
 |細い+ドライバー|1番ドライバー。|
 |細い-ドライバー|先端の幅が2mm以下のもの。|
 |ニッパー等ダイオードの足を切れるもの|金属用でない場合刃こぼれします。|
@@ -66,6 +65,8 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 |耐熱シリコンマット||
 |斜めに切ったタイプのこて先||
 |温度調節可能なはんだごて|300度-350度前後|
+|フラックス||
+|ピンセット||
 |テスター||
 |フラックスリムーバー||
 |マスキングテープ||
@@ -73,6 +74,9 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 |耐熱絶縁テープ（カプトンテープ）||
 
 ## 組み立て方（はんだ付け）
+発送での事故防止のために予め取り付けられている保護プレートとネジ、スペーサーを取り外します。  
+保護プレートは後で使います。ネジ、スペーサーは予備としてお使いください。
+
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
@@ -89,23 +93,6 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 はんだ付けをして足を切ります。  
 ![](img/diode3.jpg)  
 
-レバースイッチを取り付けます。  
-![](img/lever1.jpg)  
-二か所あるレバースイッチは同じキーが割り当てられます。  
-
-ランドにフラックスを塗って位置決め用の穴に合わせて乗せます。  
-![](img/lever2.jpg)  
-
-ピンセットでレバースイッチを押さえながら、はんだごてに乗せたはんだを手前のランドにのせていきます。  
-![](img/lever3.jpg)  
-
-左右はレバーを押さえながらはんだ付けします。  
-![](img/lever5.jpg)  
-これら4つは取り付け強度を上げるためのランドで、電気的にはどことも繋がっていません。  
-
-![](img/lever6.jpg)  
-左右にある二股に分かれている接点ははんだが乗りにくいので無理に接着しなくても大丈夫です。  
-
 リセットスイッチを裏から差し込み表ではんだ付けします。  
 ![](img/reset1.jpg)  
 
@@ -113,7 +100,7 @@ https://twitter.com/w_vwbw/status/1436416667395903488
 ![](img/reset2.jpg)  
 
 キースイッチを表から差し込み裏ではんだ付けします。  
-![](img/keyswitch1.jpg)
+![](img/keyswitch1.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
 ![](img/keyswitch2.jpg)  
 choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
@@ -155,7 +142,7 @@ Pro Microに動作ソフト（ファームウェア）を書き込んで動作�
 キットとPCをUSBケーブルでつないでください。   
 
 ファームウェアをダウンロードしてPro Micro Web Updaterにアクセスしてください。
-- テスト用ファームウェア [cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_test.hex)
+- テスト用ファームウェア [cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/cannonball_test.hex)
 - Pro Micro Web Updater https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 ファイルの選択ボタンを押してダウンロードしたファームウェアを指定したら、flashボタンを押しましょう。  
@@ -194,7 +181,7 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/bottom06.jpg)  
 
 キーキャップを取り付けたら本番用のファームウェアに更新しましょう。
-- [cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_via.hex)
+- [cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.6/cannonball_via.hex)
 
 マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
 ![](img/rubber.jpg)  
