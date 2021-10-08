@@ -1,8 +1,3 @@
-# 9月10日にご購入されたお客さまへ
-機能の一部に不具合がございます。  
-修正した基板の発送をご案内していますのでご覧ください。  
-https://twitter.com/w_vwbw/status/1440305043870154764
-
 # Cannonball カーソルパッド ビルドガイド
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付け）](#組み立て方はんだ付け)
@@ -209,6 +204,10 @@ ChromeかEdgeでRemapにアクセスしてください。
 - [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 ![](img/remapleft.png)  
 
+## 9月10日にご購入されたお客さまへ
+機能の一部に不具合がございます。  
+修正した基板の発送をご案内していますのでご覧ください。  
+https://twitter.com/w_vwbw/status/1440305043870154764
 
 ## その他
 ファームウェアのフォルダ  
