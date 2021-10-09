@@ -19,7 +19,7 @@ LEDは直列に配線されています。
 ひとつ発光しないLEDがある場合その先のLEDは正しくはんだ付けされていても光らなくなるので画像と見比べてどこが原因かを調べましょう。   
 
 はんだ付けするだけでLEDが使えるようになります。  
-ENTER長押しでRGB操作用のレイヤーになります。  
+2Uのキーを長押しでRGB操作用のレイヤーになります。  
 ![](img/ledlayout.png)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)
 
