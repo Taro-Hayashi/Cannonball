@@ -217,7 +217,7 @@ VIA用JSONファイル
 - 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
 - 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
-ミドル、ボトムプレートのデザインデータ  
+プレートのデザインデータ  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
