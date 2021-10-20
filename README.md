@@ -218,7 +218,7 @@ VIA用JSONファイル
 - 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
 プレートのデザインデータ  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_plates.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.20/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 foostan様のフットプリントを流用、改変して使わせていただきました。  
