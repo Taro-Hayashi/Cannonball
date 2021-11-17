@@ -7,7 +7,7 @@
 
 ## Contents
 ![](img/IMG_3856.jpg)
-||Name|Quantity| |
+||Name|Quantities| |
 |-|-|-|-|
 |1|Main Board|1||
 |2|Middle plate #1|1||
@@ -27,20 +27,19 @@
 |16|Lever Switches|2|Assembled|
 |17|Rubber feet|6||
 
-## キット以外に必要なもの
-|部品名|数|||
+## Additional required
+|Name|Quantities|||
 |-|-|-|-|
 |Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)||
 |キーキャップ|9|対応するもの|1Uが8個、2Uが1個|
 |Micro USB ケーブル|1||
 
-## オプション
-|部品名|数|||
-|-|-|-|-|
-|SK6812MINI-E|9|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|3|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
-|1N4148W|13|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
+## Optional
+|Name|Quantities||
+|-|-|-|
+|SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
+|WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/products/a0800ws-01-10)|
 
 ## 必要な工具
 |工具名| |
