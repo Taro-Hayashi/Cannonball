@@ -41,7 +41,7 @@
 |SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
-## 組み立て方（はんだ付け）
+## Assembling
 Remove protection plate, screws and spacers.  
 ![](img/IMG_2762.jpg)  
 
