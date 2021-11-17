@@ -137,7 +137,7 @@ Thank you for your time.
 
 Access Remap.  
 - Remap https://remap-keys.app/
-- 
+
 Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
 
