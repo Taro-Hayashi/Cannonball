@@ -87,7 +87,7 @@ Solder rotary encoders
 ![](img/rot3.jpg)  
 
 
-## 動作テスト
+## Testing
 Connect one of them to the PC with a USB cable.  
 Access Remap's firmware page with Chrome or Edge.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
@@ -103,7 +103,7 @@ Push the tactile switch.
 Make sure all switches are responsive.  
 If there are no problems, soldering is finished.  
 
-## 組み立て方（後半）
+## Assembling
 Disconnect the USB cable. 
 
 Attach the short and middle spacers to the red circle.  
