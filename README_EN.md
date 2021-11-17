@@ -131,53 +131,39 @@ Attaching the knob and rubber feet.
 ![](img/done.jpg)  
 Thank you for your time.  
 
-## キーマップの確認、変更方法
-このキットはレイヤー機能を使っています。  
+## Customize
 ![](img/layout.jpg)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
 
-使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
-
-ChromeかEdgeでRemapにアクセスしてください。  
+Access Remap.  
 - Remap https://remap-keys.app/
-
+- 
+Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
-左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
-ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
 
-## 左手で使う場合
-左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
-- [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
-![](img/remapleft.png)  
-
-## 9月10日にご購入されたお客さまへ
-機能の一部に不具合がございます。  
-修正した基板の発送をご案内していますのでご覧ください。  
-https://twitter.com/w_vwbw/status/1440305043870154764
-
-## その他
-ファームウェアのフォルダ  
+## Misc
+Firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
 
-VIA用JSONファイル
-- 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
-- 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
+JSON for Remap/VIA
+- right-hand [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
+- left-hand [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
-プレートのデザインデータ  
+Plates data
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.20/cannonball_plates.zip)  
-発注先のルールに沿ってデータを修正してください。  
 
-foostan様のフットプリントを流用、改変して使わせていただきました。  
+Used foostan's footprint.  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
 
-plut0nium様のフットプリントを流用、改変して使わせていただきました。  
+Used plut0nium's footprint.  
 https://github.com/plut0nium/0xLib  
 https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 
-- 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
+- Yushakobo: https://shop.yushakobo.jp/en/products/2797   
 - BOOTH: https://tarohayashi.booth.pm/items/3172502
