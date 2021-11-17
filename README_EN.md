@@ -88,29 +88,23 @@ Solder rotary encoders
 
 
 ## 動作テスト
-Pro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつないでください。   
-
-下のwebサイトにアクセスしてください。
+Connect one of them to the PC with a USB cable.  
+Access Remap's firmware page with Chrome or Edge.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
-テストファームウェアを選んでFLASHします。
+Flash the Test firmware.  
 ![](img/remap02.jpg)  
 ![](img/remap03.jpg)  
 
-キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。
+Push the tactile switch.  
 ![](img/remap04.jpg) 
-
-書き込みが完了したらウィンドウを閉じて大丈夫です。
 ![](img/remap05.jpg) 
 
-アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。  
-お疲れ様でした。問題がなければはんだ付けは終了です。
+Make sure all switches are responsive.  
+If there are no problems, soldering is finished.  
 
 ## 組み立て方（後半）
-USBケーブルを抜いてプレートを組付けます。  
-アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
-
+Disconnect the USB cable. 
 
 メインボードの赤丸のネジ穴を通してスペーサー（短）とスペーサー（中）を繋ぎます。  
 ![](img/bottom01.jpg)  
