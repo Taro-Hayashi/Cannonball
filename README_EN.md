@@ -32,7 +32,7 @@
 |-|-|-|
 |Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
 |Switches|9|Kailh Low Profile Switches V1/V2|
-|Keycaps|9|1Uが8個、2Uが1個|
+|Keycaps|9|8: 1U, 1: 2U|
 |Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
 ## Optional
@@ -41,50 +41,18 @@
 |SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
-## 必要な工具
-|工具名| |
-|-|-|
-|はんだごて||
-|はんだごて置き場||
-|鉛入りはんだ||
-|細い+ドライバー|1番ドライバー。|
-|細い-ドライバー|先端の幅が2mm以下のもの。|
-|ニッパー等ダイオードの足を切れるもの|金属用でない場合刃こぼれします。|
-|Microsoft Edge、もしくはGoogle Chrome||
-
-## あると便利な工具
-|工具名||
-|-|-|
-|耐熱シリコンマット||
-|斜めに切ったタイプのこて先||
-|温度調節可能なはんだごて|300度-350度前後|
-|フラックス||
-|ピンセット||
-|テスター||
-|フラックスリムーバー||
-|マスキングテープ||
-|はんだ吸い取り線||
-|耐熱絶縁テープ（カプトンテープ）||
-
 ## 組み立て方（はんだ付け）
-発送での事故防止のためのプレートとネジ、スペーサーを取り外します。  
+Remove protection plate, screws and spacers.  
 ![](img/IMG_2762.jpg)  
-ネジ、スペーサーは予備としてお使いください。
 
-はんだ付けのやり方は動画で見るとわかりやすいです。  
-パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
- - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
-
-それではダイオードをD1からD13まで取り付けます。  
-足を曲げて裏から差し込みます。  
-ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
+Install the diodes from D1 to D13.  
 ![](img/diode0.jpg)  
+Diodes have a direction.  
 
-表で更に足を曲げて抜けないようにします。  
-ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
+Bend the legs parallel to the diode to prevent interference with the key switch later.  
 ![](img/diode2.jpg)  
 
-はんだ付けをして足を切ります。  
+Solder and cut the legs.  
 ![](img/diode3.jpg)  
 
 リセットスイッチを裏から差し込み表ではんだ付けします。  
