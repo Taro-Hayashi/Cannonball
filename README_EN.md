@@ -106,28 +106,30 @@ If there are no problems, soldering is finished.
 ## 組み立て方（後半）
 Disconnect the USB cable. 
 
-メインボードの赤丸のネジ穴を通してスペーサー（短）とスペーサー（中）を繋ぎます。  
+Attach the short and middle spacers to the red circle.  
 ![](img/bottom01.jpg)  
-図のようにキースイッチがついてる側に少し長い方のスペーサーがあるようにしてください。  
+There will be middle spacers on the side of the key switch.  
 ![](img/bottom02.jpg)  
 
-メインボード裏面のネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
+Attach short spacers on the back of the main board with short screws.  
+And fit the middle plate #1.  
 ![](img/bottom03.jpg)  
 
-ミドルプレート2とバックプレートをネジ（長）で止めます。
+Fasten the middle plate #2 and the back plate with long screws.  
 ![](img/bottom04.jpg)  
 ![](img/bottom05.jpg)  
 
-表に保護プレートをネジ（中）で取り付けましょう。
+Attach cover plate to the front with middle screws.  
 ![](img/bottom06.jpg)  
 
-キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
-マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
+Attaching the knob and rubber feet.  
 ![](img/rubber.jpg)  
 ![](img/done.jpg)  
+Thank you for your time.  
 
 ## キーマップの確認、変更方法
 このキットはレイヤー機能を使っています。  
