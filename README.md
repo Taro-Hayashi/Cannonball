@@ -1,4 +1,4 @@
-# Cannonball カーソルパッド ビルドガイド
+# Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
 - [キット内容](#キット内容)
 - [組み立て方（はんだ付けその1）](#組み立て方はんだ付けその1)
 - [動作テスト](#動作テスト)
