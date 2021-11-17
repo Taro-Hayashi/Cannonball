@@ -55,47 +55,35 @@ Bend the legs parallel to the diode to prevent interference with the key switch 
 Solder and cut the legs.  
 ![](img/diode3.jpg)  
 
-リセットスイッチを裏から差し込み表ではんだ付けします。  
+Solder Tactile Switches. 
 ![](img/reset1.jpg)  
 
-フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
+Solder and cut the legs.  
 ![](img/reset2.jpg)  
 
-キースイッチを表から差し込み裏ではんだ付けします。  
+Solder Switches.  
 ![](img/keyswitch1.jpg)  
-ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
+The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
 ![](img/keyswitch2.jpg)  
-choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
+In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
 ![](img/keyswitch3.jpg)  
 
-メインボードの裏にコンスルーを挿します。  
+Put conthroughs. Make the top and bottom and front and back the same.  
+Conthroughs are not soldered so that Pro Micro can be removed.  
 ![](img/promicro1.jpg)   
-コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
-挿すだけではんだ付けはしません。  
 
-コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
-カプトンテープをお持ちの方はここでメインボードとPro Microを絶縁しておくと安心です。  
+And put Pro Micro on conthroughs.
 ![](img/promicro2.jpg)   
 
-Pro Micro側のコンスルーの足を半田付けします。  
+And put Pro Micro on conthroughs.
 ![](img/promicro3.jpg)   
 
-表からホイール型のロータリーエンコーダーを取り付けます。  
-ピンの位置を確認してツメを穴に差し込みます。  
+Solder rotary encoders
 ![](img/wheel1.jpg)  
-
-ツメを穴に引っかけてからピンを穴に差し込みます。
-ピンを曲げてしまわないように注意してください。
 ![](img/wheel2.jpg)  
-
-差し込めたらはんだ付けします。
 ![](img/wheel3.jpg)  
-
-表から水平型のロータリーエンコーダーを取り付けて裏からはんだ付けします。
 ![](img/rot1.jpg)
-ピンが曲がらないように気を付けましょう。  
 ![](img/rot2.jpg)  
-クリップの部分ははんだ付けしなくても構いません。  
 ![](img/rot3.jpg)  
 
 
