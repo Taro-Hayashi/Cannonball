@@ -28,18 +28,18 @@
 |17|Rubber feet|6||
 
 ## Additional required
-|Name|Quantities|||
-|-|-|-|-|
-|Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|9|Kailhロープロファイル（V1, V2)||
-|キーキャップ|9|対応するもの|1Uが8個、2Uが1個|
-|Micro USB ケーブル|1||
+|Name|Quantities||
+|-|-|-|
+|Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
+|Switches|9|Kailh Low Profile Switches V1/V2|
+|Keycaps|9|1Uが8個、2Uが1個|
+|Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
 ## Optional
 |Name|Quantities||
 |-|-|-|
-|SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/products/a0800ws-01-10)|
+|SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## 必要な工具
 |工具名| |
