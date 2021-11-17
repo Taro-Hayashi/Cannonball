@@ -1,32 +1,31 @@
-# Cannonball カーソルパッド ビルドガイド
-- [キット内容](#キット内容)
-- [組み立て方（はんだ付け）](#組み立て方はんだ付け)
-- [動作テスト](#動作テスト)
-- [組み立て方（後半）](#組み立て方後半)
-- [カスタマイズ](#キーマップの確認変更方法)
-- [おまけ](#おまけ)
+# Cannonball カーソルパッド Build Manual ([日本語](https://github.com/Taro-Hayashi/Cannonball/blob/main/README.md))
+- [Contents](#Contents)
+- [Soldering](#Soldering)
+- [Testing](#Testing)
+- [Assembling](#Assembling)
+- [Customize](#Customize)
 
-## キット内容
+## Contents
 ![](img/IMG_3856.jpg)
-||部品名|数| |
+||Name|Quantity| |
 |-|-|-|-|
-|1|メインボード|1|黒・PCB|
-|2|ミドルプレート1|1|透明アクリル・穴の開いている方|
-|3|ミドルプレート2|1|透明アクリル|
-|4|ボトムプレート|1|黒・PCB|
-|5|保護プレート|1|透明アクリル・小さい|
-|6|ネジ（短）|4|3mm|
-|7|ネジ（中）|2|4mm|
-|8|ネジ（長）|6|6mm|
-|9|スペーサー（短）|6|3mm|
-|10|スペーサー（中）|2|4mm|
-|11|ダイオード|13|1N4148|
-|12|リセットスイッチ|1||
-|13|ロータリーエンコーダ（水平型）|1|EC11互換品|
-|14|ノブ|1||
-|15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
-|16|レバースイッチ|2|メインボードに取り付け済み。[取り付け方](lever.md)|
-|17|ゴム足|6||
+|1|Main Board|1||
+|2|Middle plate #1|1||
+|3|Middle plate #2|1||
+|4|Bottom plate|1||
+|5|Cover plate|1||
+|6|Short screws|4|3mm|
+|7|Middle screws|2|4mm|
+|8|Long screws|6|6mm|
+|9|Short spacers|6|3mm|
+|10|Middle spacers|2|4mm|
+|11|Diodes|13|1N4148|
+|12|Tactile Switches|1||
+|13|Dial Rotary Encoder|1|EC11|
+|14|Knob|1||
+|15|Wheel Rotary Encoders|2|EVQWGD001|
+|16|Lever Switches|2|Assembled|
+|17|Rubber feet|6||
 
 ## キット以外に必要なもの
 |部品名|数|||
