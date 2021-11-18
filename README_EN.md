@@ -71,13 +71,13 @@ Put conthroughs. Make the top and bottom and front and back the same.
 Conthroughs are not soldered so that Pro Micro can be removed.  
 ![](img/promicro1.jpg)   
 
-And put Pro Micro on conthroughs.
+And put Pro Micro on conthroughs.  
 ![](img/promicro2.jpg)   
 
-And put Pro Micro on conthroughs.
+Solder Pro Micro.  
 ![](img/promicro3.jpg)   
 
-Solder rotary encoders
+Solder rotary encoders.  
 ![](img/wheel1.jpg)  
 ![](img/wheel2.jpg)  
 ![](img/wheel3.jpg)  
