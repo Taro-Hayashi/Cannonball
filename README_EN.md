@@ -55,10 +55,9 @@ Bend the legs parallel to the diode to prevent interference with the key switch 
 Solder and cut the legs.  
 ![](img/diode3.jpg)  
 
-Solder Tactile Switches. 
+Solder Tactile Switches.  
 ![](img/reset1.jpg)  
-
-Solder and cut the legs.  
+If you want to remove the flux from the surface, now is the time.  
 ![](img/reset2.jpg)  
 
 Solder Switches.  
