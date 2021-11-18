@@ -148,7 +148,7 @@ After Drag-and-Drop the keys, press the flash button in the upper right corner.
 Firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
 
-JSON for Remap/VIA
+JSON for Remap/VIA  
 right-hand [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
 left-hand [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
