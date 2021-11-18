@@ -3,7 +3,7 @@
 - [Soldering](#Soldering)
 - [Testing](#Testing)
 - [Assembling](#Assembling)
-- [Customize](#Customize)
+- [Customise](#Customise)
 
 ## Contents
 ![](img/IMG_3856.jpg)
@@ -131,7 +131,7 @@ Attaching the knob and rubber feet.
 ![](img/done.jpg)  
 Thank you for your time.  
 
-## Customize
+## Customise
 ![](img/layout.jpg)  
 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
 
