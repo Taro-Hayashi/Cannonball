@@ -9,7 +9,7 @@
 ![](img/IMG_3856.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
-|1|Main Board|1||
+|1|Main board|1||
 |2|Middle plate #1|1||
 |3|Middle plate #2|1||
 |4|Bottom plate|1||
