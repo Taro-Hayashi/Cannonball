@@ -149,10 +149,10 @@ Firmware
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/cannonball
 
 JSON for Remap/VIA
-- right-hand [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
-- left-hand [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
+right-hand [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
+left-hand [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
-Plates data
+Plates data  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.20/cannonball_plates.zip)  
 
 Used foostan's footprint.  
