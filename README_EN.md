@@ -152,7 +152,7 @@ right-hand [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases
 left-hand [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 
 Plates data  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.20/cannonball_plates.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 
 Used foostan's footprint.  
 https://github.com/foostan/kbd/  
