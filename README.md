@@ -32,43 +32,44 @@
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|Pro Micro コンスルー付き|1||[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/promicro-spring-pinheader)|
-|キースイッチ|9|Kailhロープロファイル（V1, V2)||
-|キーキャップ|9|対応するもの|1Uが8個、2Uが1個|
-|Micro USB ケーブル|1||
+|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
+|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
+|キースイッチ|9|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
+|キーキャップ|9||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
+|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|SK6812MINI-E|9|[取り付け方](led.md)|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|WS2812B|3|無くてもバックライトだけ光ります。|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800ws-01-10)|
-|1N4148W|13|表面実装タイプのダイオード|[遊舎工房様販売ページ](https://shop.yushakobo.jp/products/a0800di-02-100)|
+|バックライトLED（SK6812MINI-E）|9|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
+|アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
+|表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
 ## 必要な工具
-|工具名| |
+100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
+|工具名|Amazon|
 |-|-|
-|はんだごて||
-|はんだごて置き場||
-|鉛入りはんだ||
-|細い+ドライバー|1番ドライバー。|
-|細い-ドライバー|先端の幅が2mm以下のもの。|
-|ニッパー等ダイオードの足を切れるもの|金属用でない場合刃こぼれします。|
+|はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
+|こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
+|鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
+|精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
+|ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
 ## あると便利な工具
-|工具名||
-|-|-|
-|耐熱シリコンマット||
-|斜めに切ったタイプのこて先||
-|温度調節可能なはんだごて|300度-350度前後|
-|フラックス||
-|ピンセット||
-|テスター||
-|フラックスリムーバー||
-|マスキングテープ||
-|はんだ吸い取り線||
-|はんだ吸い取り器||
-|耐熱絶縁テープ（カプトンテープ）||
+|工具名||Amazon|
+|-|-|-|
+|耐熱シリコンマット||[ノーブランド](https://amzn.to/3rYlcuW)|
+|温度調節可能なはんだごて|★|[FX600-02](https://amzn.to/3oKNQOg)|[]()|
+|斜めに切ったタイプのこて先|★|[FX600用 T18-C2](https://amzn.to/3pGqbNW)|
+|フラックス|★|[HAKKO 001-01](https://amzn.to/3dNy4vr)|
+|フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
+|ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
+|テスター||[TDX-200](https://amzn.to/3rXlaDI)|
+|マスキングテープ||[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
+|はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
+|はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
+|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
 
 ## 組み立て方（はんだ付けその1）
 発送での事故防止のためのプレートとネジ、スペーサーを取り外します。  
