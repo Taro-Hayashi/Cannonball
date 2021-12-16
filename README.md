@@ -65,8 +65,8 @@
 |フラックス|★|[HAKKO 001-01](https://amzn.to/3dNy4vr)|
 |フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
 |ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
+|マスキングテープ|★|[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
 |テスター||[TDX-200](https://amzn.to/3rXlaDI)|
-|マスキングテープ||[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
 |はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
 |耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
