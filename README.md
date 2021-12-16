@@ -26,7 +26,7 @@
 |13|ロータリーエンコーダ（水平型）|1|EC11互換品|
 |14|ノブ|1||
 |15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
-|16|レバースイッチ|2|メインボードに取り付け済み。[取り付け方](lever.md)|
+|16|レバースイッチ|2|メインボードに取り付け済み。|
 |17|ゴム足|6||
 
 ## キット以外に必要なもの
@@ -205,11 +205,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
 - [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
 ![](img/remapleft.png)  
-
-## 9月10日にご購入されたお客さまへ
-機能の一部に不具合がございます。  
-修正した基板の発送をご案内していますのでご覧ください。  
-https://twitter.com/w_vwbw/status/1440305043870154764
 
 ## その他
 ファームウェアのフォルダ  
