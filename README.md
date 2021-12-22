@@ -1,5 +1,7 @@
 # Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
+現在遊舎工房様での再発売に合わせて編集中です。朝までには終わります。
 - [キット内容](#キット内容)
+- [準備](#準備)
 - [組み立て方（はんだ付けその1）](#組み立て方はんだ付けその1)
 - [動作テスト](#動作テスト)
 - [組み立て方（はんだ付けその2）](#組み立て方はんだ付けその2)
@@ -8,7 +10,6 @@
 - [おまけ](#おまけ)
 
 ## キット内容
-遊舎工房様で取り扱いのキットにはPro Microが含まれます。現在ビルドガイドを修正中です
 ![](img/IMG_4971.jpg)
 ||部品名|数| |
 |-|-|-|-|
@@ -34,14 +35,14 @@
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|キースイッチ|9|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
-|キーキャップ|9||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
+|キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|9|V1は専用、V2はCherryMX||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
 |部品名|数|||
 |-|-|-|-|
-|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
+|コンスルー 12ピン（高さ2.5mm）|2|[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |バックライトLED（SK6812MINI-E）|9|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
@@ -50,12 +51,12 @@
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
+|エポシキ接着剤かグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
 |こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
 |鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
 |精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
 |ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
-|エポシキ接着剤やグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
 ## あると便利な工具
@@ -68,16 +69,18 @@
 |フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
 |ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
 |マスキングテープ|★|[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
+|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
 |テスター||[TDX-200](https://amzn.to/3rXlaDI)|
 |はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
-|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
+
+## 準備
+Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
+![](img/IMG_4972.jpg)  
+![](img/IMG_5093.jpg)  
+必須の作業ではありませんが、（コンスルーを使わない場合は特に）やっておいた方が安心です。
 
 ## 組み立て方（はんだ付けその1）
-発送での事故防止のためのプレートとネジ、スペーサーを取り外します。  
-![](img/IMG_2762.jpg)  
-ネジ、スペーサーは予備としてお使いください。
-
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
