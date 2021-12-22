@@ -32,14 +32,14 @@
 |17|Pro Micro|6||
 |18|レバースイッチ|2|メインボードに取り付け済み。|
 
-## キット以外に必要なもの
+### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ|9|V1は専用、V2はCherryMX||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
-## オプション
+### オプション
 |部品名|数|||
 |-|-|-|-|
 |コンスルー 12ピン（高さ2.5mm）|2|[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
@@ -47,7 +47,7 @@
 |アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
-## 必要な工具
+### 必要な工具
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
@@ -59,7 +59,7 @@
 |ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
-## あると便利な工具
+### あると便利な工具
 |工具名||Amazon|
 |-|-|-|
 |耐熱シリコンマット||[ノーブランド](https://amzn.to/3rYlcuW)|
@@ -78,17 +78,24 @@
 Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
 ![](img/IMG_4972.jpg)  
 ![](img/IMG_5093.jpg)  
-必須の作業ではありませんが、（コンスルーを使わない場合は特に）やっておいた方が安心です。
+乾燥させている間にはんだ付けを進めましょう。
 
 ## 組み立て方（はんだ付けその1）
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
 
-それではダイオードをD1からD13まで取り付けます。  
+### LEDのはんだ付け
+
+LEDを取り付ける場合はメインボードに最初にはんだ付けします。
+![](img/layout.jpg)   
+
+### ダイオード、リセットスイッチのはんだ付け
+
+D1からD13まで取り付けます。  
 足を曲げて裏から差し込みます。  
-ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 ![](img/diode0.jpg)  
+ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
 
 表で更に足を曲げて抜けないようにします。  
 ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
@@ -102,6 +109,8 @@ Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強�
 
 フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
 ![](img/reset2.jpg)  
+
+### キースイッチのはんだ付け
 
 キースイッチを表から差し込み裏ではんだ付けします。  
 ![](img/keyswitch1.jpg)  
