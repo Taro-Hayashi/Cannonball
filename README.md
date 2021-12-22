@@ -193,12 +193,12 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/IMG_5038.jpg)  
 
 マイナスドライバーでノブを取りつけたらキーキャップを取り付けて完成です。  
-![](IMG_5043.jpg)  
+![](img/IMG_5043.jpg)  
 
 先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 ![](img/remap06.jpg)  
-- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 ## キーマップの確認、変更方法
 このキットはレイヤー機能を使っています。  
