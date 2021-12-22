@@ -49,7 +49,7 @@
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
-|エポシキ接着剤かグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
+|エポシキ接着剤|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
 |こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
 |鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
