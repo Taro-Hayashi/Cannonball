@@ -1,11 +1,9 @@
 # Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
-現在遊舎工房様での再発売に合わせて編集中です。朝までには終わります。
+現在遊舎工房様での再発売に合わせて編集中です。朝までに終わります。
 - [キット内容](#キット内容)
 - [準備](#準備)
-- [組み立て方（はんだ付けその1）](#組み立て方はんだ付けその1)
-- [動作テスト](#動作テスト)
-- [組み立て方（はんだ付けその2）](#組み立て方はんだ付けその2)
-- [組み立て方（後半）](#組み立て方後半)
+- [はんだ付け](#はんだ付け)
+- [組み立て](#組み立て)
 - [カスタマイズ](#キーマップの確認変更方法)
 - [おまけ](#おまけ)
 
@@ -32,14 +30,14 @@
 |17|Pro Micro|6||
 |18|レバースイッチ|2|メインボードに取り付け済み。|
 
-## キット以外に必要なもの
+### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
 |キーキャップ|9|V1は専用、V2はCherryMX||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
-## オプション
+### オプション
 |部品名|数|||
 |-|-|-|-|
 |コンスルー 12ピン（高さ2.5mm）|2|[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
@@ -47,7 +45,7 @@
 |アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
-## 必要な工具
+### 必要な工具
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
@@ -59,7 +57,7 @@
 |ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
-## あると便利な工具
+### あると便利な工具
 |工具名||Amazon|
 |-|-|-|
 |耐熱シリコンマット||[ノーブランド](https://amzn.to/3rYlcuW)|
@@ -78,49 +76,60 @@
 Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
 ![](img/IMG_4972.jpg)  
 ![](img/IMG_5093.jpg)  
-必須の作業ではありませんが、（コンスルーを使わない場合は特に）やっておいた方が安心です。
+乾燥させている間にはんだ付けを進めましょう。
 
-## 組み立て方（はんだ付けその1）
+## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
 
-それではダイオードをD1からD13まで取り付けます。  
+### LEDのはんだ付け
+
+LEDを取り付ける場合はメインボードに最初にはんだ付けします。
+ - [LEDの取り付け方](led.md)  
+
+### ダイオード、リセットスイッチのはんだ付け
+
+D1からD13まで取り付けます。  
 足を曲げて裏から差し込みます。  
+![](img/IMG_4998.jpg)  
 ダイオードには向きがあります。三角形の先の棒と黒線を合わせましょう。  
-![](img/diode0.jpg)  
 
 表で更に足を曲げて抜けないようにします。  
-ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。
-![](img/diode2.jpg)  
+![](img/IMG_5002.jpg)  
+ダイオードと並行に曲げるとあとでキースイッチに干渉しにくいです。  
 
 はんだ付けをして足を切ります。  
-![](img/diode3.jpg)  
+![](img/IMG_5003.jpg)  
 
 リセットスイッチを裏から差し込み表ではんだ付けします。  
-![](img/reset1.jpg)  
+![](img/IMG_5005.jpg)  
 
 フラックスクリーナーを使う人はここで表面を綺麗にしておきましょう。  
-![](img/reset2.jpg)  
+![](img/IMG_5006.jpg)  
+
+### キースイッチのはんだ付け
 
 キースイッチを表から差し込み裏ではんだ付けします。  
-![](img/keyswitch1.jpg)  
+![](img/IMG_5007.jpg)  
 ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
-![](img/keyswitch2.jpg)  
+![](img/IMG_5008.jpg)  
 choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
-![](img/keyswitch3.jpg)  
+![](img/IMG_5009.jpg)  
+全てのスイッチをはんだ付けします。
 
-メインボードの裏にコンスルーを挿します。  
-![](img/promicro1.jpg)   
-コンスルーの窓が高くて両方とも同じ向きになるように設置します。  
-挿すだけではんだ付けはしません。  
+### Pro Microのはんだ付け
 
-コンスルーにPro Microを挿します。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
-カプトンテープをお持ちの方はここでメインボードとPro Microを絶縁しておくと安心です。  
-![](img/promicro2.jpg)   
-
-Pro Micro側のコンスルーの足を半田付けします。  
-![](img/promicro3.jpg)   
+隠れてしまうダイオードD3,D4の方向が合っているか再度確認してください。  
+Pro Microに付属しているピンヘッダの、短い側を基板に差し込みます。  
+![](img/IMG_5010.jpg)  
+Pro Microを乗せます。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
+![](img/IMG_5011.jpg)  
+足をニッパーで切ったらはんだ付けします。  
+![](img/IMG_5013.jpg)  
+![](img/IMG_5014.jpg)  
+基板側をはんだ付けします。  
+![](img/IMG_5017.jpg)  
 
 
 ## 動作テスト
@@ -142,31 +151,30 @@ Pro Micro側のコンスルーの足を半田付けします。
 
 アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。  
 
-## 組み立て方（はんだ付けその2）
+## ロータリーエンコーダーのはんだ付け
 表からホイール型のロータリーエンコーダーを取り付けます。  
 ピンの位置を確認してツメを穴に差し込みます。  
-![](img/wheel1.jpg)  
+![](img/IMG_5019.jpg)  
 
 ツメを穴に引っかけてからピンを穴に差し込みます。
 ピンを曲げてしまわないように注意してください。
-![](img/wheel2.jpg)  
+![](IMG_5021.jpg)  
 
 差し込めたらはんだ付けします。
-![](img/wheel3.jpg)  
+![](img/IMG_5024.jpg)  
 
 表から水平型のロータリーエンコーダーを取り付けて裏からはんだ付けします。
-![](img/rot1.jpg)
+![](img/IMG_5022.jpg)
 ピンが曲がらないように気を付けましょう。  
-![](img/rot2.jpg)  
+![](img/IMG_5025.jpg)  
 クリップの部分ははんだ付けしなくても構いません。  
-![](img/rot3.jpg)  
+![](img/IMG_5026.jpg)  
 
 お疲れ様でした。再び動作を確認して問題がなければはんだ付けは終了です。
 
-## 組み立て方（後半）
+## 組み立て
 USBケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
-
 
 メインボードの赤丸のネジ穴を通してスペーサー（短）とスペーサー（中）を繋ぎます。  
 ![](img/bottom01.jpg)  
