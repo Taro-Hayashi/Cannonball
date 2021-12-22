@@ -1,5 +1,4 @@
 # Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
-現在遊舎工房様での再発売に合わせて編集中です。朝までに終わります。
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け)
