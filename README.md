@@ -1,5 +1,6 @@
 # Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
 - [キット内容](#キット内容)
+- [準備](#準備)
 - [組み立て方（はんだ付けその1）](#組み立て方はんだ付けその1)
 - [動作テスト](#動作テスト)
 - [組み立て方（はんだ付けその2）](#組み立て方はんだ付けその2)
@@ -68,16 +69,18 @@
 |フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
 |ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
 |マスキングテープ|★|[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
+|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
 |テスター||[TDX-200](https://amzn.to/3rXlaDI)|
 |はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
-|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
+
+## 準備
+Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
+![](img/IMG_4972.jpg)  
+![](img/IMG_5093.jpg)  
+必須の作業ではありませんが、（コンスルーを使わない場合は特に）やっておいた方が安心です。
 
 ## 組み立て方（はんだ付けその1）
-発送での事故防止のためのプレートとネジ、スペーサーを取り外します。  
-![](img/IMG_2762.jpg)  
-ネジ、スペーサーは予備としてお使いください。
-
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
