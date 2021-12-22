@@ -9,7 +9,7 @@
 
 ## キット内容
 遊舎工房様で取り扱いのキットにはPro Microが含まれます。現在ビルドガイドを修正中です
-![](img/IMG_3856.jpg)
+![](img/IMG_4971.jpg)
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1|黒・PCB|
@@ -24,17 +24,16 @@
 |10|スペーサー（中）|2|4mm|
 |11|ダイオード|13|1N4148|
 |12|リセットスイッチ|1||
-|13|ロータリーエンコーダ（水平型）|1|EC11互換品|
+|13|ロータリーエンコーダ（ダイヤル）|1|EC11互換品|
 |14|ノブ|1||
 |15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
-|16|レバースイッチ|2|メインボードに取り付け済み。|
-|17|ゴム足|6||
+|16|ゴム足|6||
+|17|Pro Micro|6||
+|18|レバースイッチ|2|メインボードに取り付け済み。|
 
 ## キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|Pro Micro|1||[遊舎工房](https://shop.yushakobo.jp/products/promicro)、[コンスルー付き](https://shop.yushakobo.jp/products/promicro-spring-pinheader)、[TALPKEYBOARD](https://talpkeyboard.net/items/5b24504ba6e6ee7ec60063e3)、[Daily Craft Keyboard・コンスルー付き](https://shop.dailycraft.jp/products/promicro_with_conthrou)|
-|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|[遊舎工房・V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[遊舎工房・V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
 |キーキャップ|9||V1は専用のキーキャップ、V2はCherryMXをご用意ください。|
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
@@ -42,6 +41,7 @@
 ## オプション
 |部品名|数|||
 |-|-|-|-|
+|コンスルー 12ピン（高さ2.5mm）|2|2本必要なのでご注意ください。|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |バックライトLED（SK6812MINI-E）|9|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
@@ -55,6 +55,7 @@
 |鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
 |精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
 |ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
+|エポシキ接着剤やグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
 ## あると便利な工具
