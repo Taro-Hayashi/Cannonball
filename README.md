@@ -73,7 +73,7 @@
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
 
 ## 準備
-Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
+Pro MicroのMicro-USB端子をエポシキ接着剤で補強します。
 ![](img/IMG_4972.jpg)  
 ![](img/IMG_5093.jpg)  
 乾燥させている間にはんだ付けを進めましょう。
