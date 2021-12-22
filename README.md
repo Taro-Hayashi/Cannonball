@@ -35,7 +35,7 @@
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|9||V1は専用のキーキャップ、V2はCherryMXに対応しています。|
+|キーキャップ|9|V1は専用、V2はCherryMX||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
@@ -50,12 +50,12 @@
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
+|エポシキ接着剤かグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
 |こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
 |鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
 |精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
 |ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
-|エポシキ接着剤やグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |Microsoft Edge、もしくはGoogle Chrome||
 
 ## あると便利な工具
