@@ -7,11 +7,10 @@
 コンスルーの窓が高く、向きが同じになるようにします。  
 基板側にはんだ付けはしません。  
   
-![](img/promicro2.jpg)  
 Pro Microを乗せます。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
-![](img/promicro3.jpg)  
-Pro Microをはんだ付けします。  
-
-コンスルーを使う場合は手順のPro Microのはんだ付けは飛ばして動作確認に進んでください。
+![](img/promicro2.jpg)  
+Pro Microをはんだ付けします。 
+![](img/promicro3.jpg)   
+コンスルーを使う場合ははんだ付け手順のPro Microのはんだ付けは飛ばして動作確認に進んでください。
 
 ブラウザの機能で戻ってください。  
