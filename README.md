@@ -35,7 +35,7 @@
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|9||V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)、[TALPKEYBOARD](https://shop.dailycraft.jp/collections/choc-switches)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)|
+|キーキャップ|9|V1は専用のキーキャップ、V2はCherryMXに対応しています。||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ## オプション
