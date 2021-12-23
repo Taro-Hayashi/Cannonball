@@ -76,12 +76,12 @@ Solder Pro Micro.
 ![](img/promicro3.jpg)   
 
 Solder rotary encoders.  
-![](img/wheel1.jpg)  
-![](img/wheel2.jpg)  
-![](img/wheel3.jpg)  
-![](img/rot1.jpg)
-![](img/rot2.jpg)  
-![](img/rot3.jpg)  
+![](img/IMG_5019.jpg)  
+![](img/IMG_5021.jpg)  
+![](img/IMG_5024.jpg)  
+![](img/IMG_5022.jpg)
+![](img/IMG_5025.jpg)  
+![](img/IMG_5024.jpg)  
 
 
 ## Testing
