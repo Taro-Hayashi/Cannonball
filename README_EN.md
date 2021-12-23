@@ -36,11 +36,11 @@
 |Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
 
 ## Optional
-|Name|Quantities||
-|-|-|-|
-|Conthrough|2|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
-|SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
-|WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
+|Name|Quantities|||
+|-|-|-|-|
+|Conthrough|2|[Usage](conthrough_EN.md)|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
+|SK6812MINI-E|9|[Usage](led_EN.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|WS2812B|3||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
 Install the diodes from D1 to D13.  
@@ -65,15 +65,17 @@ The two switches here may come in contact with the Pro Micro, so cut off the leg
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
 ![](img/IMG_5009.jpg)  
 
-Put conthroughs. Make the top and bottom and front and back the same.  
-Conthroughs are not soldered so that Pro Micro can be removed.  
-![](img/promicro1.jpg)   
+Plug the short end of the pin header into the board.  
+![](img/IMG_5010.jpg)   
 
-And put Pro Micro on conthroughs.  
-![](img/promicro2.jpg)   
+Place the Pro Micro and cut off the pins.  
+![](img/IMG_5011.jpg)   
+![](img/IMG_5013.jpg)   
 
 Solder Pro Micro.  
-![](img/promicro3.jpg)   
+![](img/IMG_5014.jpg)   
+Solder the front side.  
+![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
 ![](img/IMG_5019.jpg)  
@@ -124,7 +126,7 @@ After installing the keycap, follow the same procedure as before to update the f
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](IMG_5043.jpg)  
+![](img/IMG_5043.jpg)  
 Thank you for your time.  
 
 ## Customise
