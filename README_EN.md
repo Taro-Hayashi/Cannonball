@@ -65,15 +65,17 @@ The two switches here may come in contact with the Pro Micro, so cut off the leg
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
 ![](img/IMG_5009.jpg)  
 
-Put conthroughs. Make the top and bottom and front and back the same.  
-Conthroughs are not soldered so that Pro Micro can be removed.  
-![](img/promicro1.jpg)   
+Plug the short end of the pin header into the board.
+![](img/IMG_5010.jpg)   
 
-And put Pro Micro on conthroughs.  
-![](img/promicro2.jpg)   
+Place the Pro Micro and cut off the pins.
+![](img/IMG_5011.jpg)   
+![](img/IMG_5013.jpg)   
 
 Solder Pro Micro.  
-![](img/promicro3.jpg)   
+![](img/IMG_5014.jpg)   
+Solder the front side.
+![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
 ![](img/IMG_5019.jpg)  
