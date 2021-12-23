@@ -6,7 +6,7 @@
 - [Customise](#Customise)
 
 ## Contents
-![](img/IMG_3856.jpg)
+![](img/IMG_4971.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|1||
@@ -24,13 +24,13 @@
 |13|Dial Rotary Encoder|1|EC11|
 |14|Knob|1||
 |15|Wheel Rotary Encoders|2|EVQWGD001|
-|16|Lever Switches|2|Assembled|
-|17|Rubber feet|6||
+|16|Rubber feet|6||
+|17|Pro Micro|1||
+|18|Lever Switches|2|Assembled|
 
 ## Additional required
 |Name|Quantities||
 |-|-|-|
-|Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
 |Switches|9|Kailh Low Profile Switches V1/V2|
 |Keycaps|9|8: 1U, 1: 2U|
 |Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
@@ -38,34 +38,32 @@
 ## Optional
 |Name|Quantities||
 |-|-|-|
+|Conthrough|2|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
 |SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
-Remove protection plate, screws and spacers.  
-![](img/IMG_2762.jpg)  
-
 Install the diodes from D1 to D13.  
-![](img/diode0.jpg)  
+![](img/IMG_4998.jpg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
-![](img/diode2.jpg)  
+![](img/IMG_5002.jpg)  
 
 Solder and cut the legs.  
-![](img/diode3.jpg)  
+![](img/IMG_5003.jpg)  
 
 Solder Tactile Switches.  
-![](img/reset1.jpg)  
+![](img/IMG_5005.jpg)  
 If you want to remove the flux from the surface, now is the time.  
-![](img/reset2.jpg)  
+![](img/IMG_5006.jpg)  
 
 Solder Switches.  
-![](img/keyswitch1.jpg)  
+![](img/IMG_5007.jpg)  
 The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
-![](img/keyswitch2.jpg)  
+![](img/IMG_5008.jpg)  
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
-![](img/keyswitch3.jpg)  
+![](img/IMG_5009.jpg)  
 
 Put conthroughs. Make the top and bottom and front and back the same.  
 Conthroughs are not soldered so that Pro Micro can be removed.  
@@ -78,12 +76,12 @@ Solder Pro Micro.
 ![](img/promicro3.jpg)   
 
 Solder rotary encoders.  
-![](img/wheel1.jpg)  
-![](img/wheel2.jpg)  
-![](img/wheel3.jpg)  
-![](img/rot1.jpg)
-![](img/rot2.jpg)  
-![](img/rot3.jpg)  
+![](img/IMG_5019.jpg)  
+![](img/IMG_5021.jpg)  
+![](img/IMG_5024.jpg)  
+![](img/IMG_5022.jpg)
+![](img/IMG_5025.jpg)  
+![](img/IMG_5024.jpg)  
 
 
 ## Testing
@@ -106,28 +104,27 @@ If there are no problems, soldering is finished.
 Disconnect the USB cable. 
 
 Attach the short and middle spacers to the red circle.  
-![](img/bottom01.jpg)  
+![](img/IMG_5027.jpg)  
 There will be middle spacers on the side of the key switch.  
-![](img/bottom02.jpg)  
+![](img/IMG_5029.jpg)  
 
 Attach short spacers on the back of the main board with short screws.  
 And fit the middle plate #1.  
-![](img/bottom03.jpg)  
+![](img/IMG_5031.jpg)  
 
 Fasten the middle plate #2 and the back plate with long screws.  
-![](img/bottom04.jpg)  
-![](img/bottom05.jpg)  
+![](img/IMG_5032.jpg)  
+![](img/IMG_5037.jpg)  
 
 Attach cover plate to the front with middle screws.  
-![](img/bottom06.jpg)  
+![](img/IMG_5038.jpg)  
 
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](img/rubber.jpg)  
-![](img/done.jpg)  
+![](IMG_5043.jpg)  
 Thank you for your time.  
 
 ## Customise

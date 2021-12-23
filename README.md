@@ -1,10 +1,9 @@
 # Cannonball カーソルパッド ビルドガイド（[English](https://github.com/Taro-Hayashi/Cannonball/blob/main/README_EN.md)）
-現在遊舎工房様での再発売に合わせて編集中です。朝までに終わります。
 - [キット内容](#キット内容)
 - [準備](#準備)
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
-- [カスタマイズ](#キーマップの確認変更方法)
+- [カスタマイズ](#カスタマイズ)
 - [おまけ](#おまけ)
 
 ## キット内容
@@ -17,7 +16,7 @@
 |4|ボトムプレート|1|黒・PCB|
 |5|保護プレート|1|透明アクリル・小さい|
 |6|ネジ（短）|4|3mm|
-|7|ネジ（中）|2|4mm|
+|7|ネジ（中）|2|5mm|
 |8|ネジ（長）|6|6mm|
 |9|スペーサー（短）|6|3mm|
 |10|スペーサー（中）|2|4mm|
@@ -27,29 +26,29 @@
 |14|ノブ|1||
 |15|ロータリーエンコーダ（ホイール）|2|EVQWGD001|
 |16|ゴム足|6||
-|17|Pro Micro|6||
+|17|Pro Micro|1|BOOTHではPro Microなし版を販売しています。|
 |18|レバースイッチ|2|メインボードに取り付け済み。|
 
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
 |キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|9|V1は専用、V2はCherryMX||
+|キーキャップ|9|V1は専用、V2はCherryMXです。||
 |Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
 
 ### オプション
 |部品名|数|||
 |-|-|-|-|
 |コンスルー 12ピン（高さ2.5mm）|2|[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)、[TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
-|バックライトLED（SK6812MINI-E）|9|[取り付け方](led.md)|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
-|アンダーグローLED（WS2812B）|3|無くてもバックライトだけ光ります。|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
+|バックライトLED（SK6812MINI-E）|9|バックライト用|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
+|アンダーグローLED（WS2812B）|3|アンダーグロー用|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
 ### 必要な工具
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|Amazon|
 |-|-|
-|エポシキ接着剤かグルーガン|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
+|エポシキ接着剤|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
 |はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
 |こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
 |鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
@@ -73,11 +72,11 @@
 |はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
 
 ## 準備
-Pro MicroのMicro-USB端子をエポシキ接着剤やグルーガンで補強します。
+Pro MicroのMicro-USB端子をエポシキ接着剤で補強します。  
 ![](img/IMG_4972.jpg)  
 ![](img/IMG_5093.jpg)  
-乾燥させている間にはんだ付けを進めましょう。
-
+乾燥させている間にはんだ付けを進めましょう。  
+  
 ## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
@@ -110,20 +109,21 @@ D1からD13まで取り付けます。
 
 ### キースイッチのはんだ付け
 
-キースイッチを表から差し込み裏ではんだ付けします。  
+表から差し込み裏ではんだ付けします。  
 ![](img/IMG_5007.jpg)  
-ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。
+ここの二つのスイッチはPro Microと接触する可能性があるので、足を切ってからはんだ付けします。　　
 ![](img/IMG_5008.jpg)  
-choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。
+choc V1スイッチの場合、足が一か所干渉するので短くカットしてください。　　
 ![](img/IMG_5009.jpg)  
 全てのスイッチをはんだ付けします。
 
 ### Pro Microのはんだ付け
 
-隠れてしまうダイオードD3,D4の方向が合っているか再度確認してください。  
+隠れてしまうダイオードD3,D4の方向が合っているか、キースイッチの足がはんだ付けされているかを再度確認してください。  
 Pro Microに付属しているピンヘッダの、短い側を基板に差し込みます。  
 ![](img/IMG_5010.jpg)  
 Pro Microを乗せます。TX0, RAW, USBの位置をシルク印刷と合わせましょう。  
+カプトンテープを持っている人は、ここで基板とPro Microが重なる部分を絶縁しておくと安心です。　　
 ![](img/IMG_5011.jpg)  
 足をニッパーで切ったらはんだ付けします。  
 ![](img/IMG_5013.jpg)  
@@ -151,14 +151,14 @@ Pro Microを乗せます。TX0, RAW, USBの位置をシルク印刷と合わせ�
 
 アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。  
 
-## ロータリーエンコーダーのはんだ付け
+### ロータリーエンコーダーのはんだ付け
 表からホイール型のロータリーエンコーダーを取り付けます。  
 ピンの位置を確認してツメを穴に差し込みます。  
 ![](img/IMG_5019.jpg)  
 
 ツメを穴に引っかけてからピンを穴に差し込みます。
 ピンを曲げてしまわないように注意してください。
-![](IMG_5021.jpg)  
+![](img/IMG_5021.jpg)  
 
 差し込めたらはんだ付けします。
 ![](img/IMG_5024.jpg)  
@@ -176,30 +176,31 @@ Pro Microを乗せます。TX0, RAW, USBの位置をシルク印刷と合わせ�
 USBケーブルを抜いてプレートを組付けます。  
 アクリルからは保護フィルムを剥がしてください。割れやすいので気をつけましょう。  
 
-メインボードの赤丸のネジ穴を通してスペーサー（短）とスペーサー（中）を繋ぎます。  
-![](img/bottom01.jpg)  
+青丸のネジ穴を通してスペーサー（短）とスペーサー（中）を繋ぎます。  
+![](img/IMG_5027.jpg)  
 図のようにキースイッチがついてる側に少し長い方のスペーサーがあるようにしてください。  
-![](img/bottom02.jpg)  
+![](img/IMG_5029.jpg)  
 
 メインボード裏面のネジ穴にスペーサー（短）をネジ（短）で取り付けてミドルプレート1（透明）を嵌めます。
-![](img/bottom03.jpg)  
+![](img/IMG_5031.jpg)  
 
 ミドルプレート2とバックプレートをネジ（長）で止めます。
-![](img/bottom04.jpg)  
-![](img/bottom05.jpg)  
+![](img/IMG_5032.jpg)  
+![](img/IMG_5037.jpg)  
+ゴム足も取り付けました。
 
 表に保護プレートをネジ（中）で取り付けましょう。
-![](img/bottom06.jpg)  
+![](img/IMG_5038.jpg)  
 
-キーキャップを取り付けたら先ほどと同様の手順で本番用のファームウェアに更新しましょう。
+マイナスドライバーでノブを取りつけたらキーキャップを取り付けて完成です。  
+![](img/IMG_5043.jpg)  
+
+先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+
 ![](img/remap06.jpg)  
 
-マイナスドライバーでノブを取りつけ、ゴム足を貼ったら完成です。
-![](img/rubber.jpg)  
-![](img/done.jpg)  
-
-## キーマップの確認、変更方法
+## カスタマイズ
 このキットはレイヤー機能を使っています。  
 ![](img/layout.jpg)  
 [Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
