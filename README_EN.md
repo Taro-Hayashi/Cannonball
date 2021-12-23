@@ -44,26 +44,26 @@
 
 ## Soldering
 Install the diodes from D1 to D13.  
-![](img/diode0.jpg)  
+![](img/IMG_4998.jpg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
-![](img/diode2.jpg)  
+![](img/IMG_5002.jpg)  
 
 Solder and cut the legs.  
-![](img/diode3.jpg)  
+![](img/IMG_5003.jpg)  
 
 Solder Tactile Switches.  
-![](img/reset1.jpg)  
+![](img/IMG_5005.jpg)  
 If you want to remove the flux from the surface, now is the time.  
-![](img/reset2.jpg)  
+![](img/IMG_5006.jpg)  
 
 Solder Switches.  
-![](img/keyswitch1.jpg)  
+![](img/IMG_5007.jpg)  
 The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
-![](img/keyswitch2.jpg)  
+![](img/IMG_5008.jpg)  
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
-![](img/keyswitch3.jpg)  
+![](img/IMG_5009.jpg)  
 
 Put conthroughs. Make the top and bottom and front and back the same.  
 Conthroughs are not soldered so that Pro Micro can be removed.  
