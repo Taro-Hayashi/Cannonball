@@ -126,7 +126,7 @@ After installing the keycap, follow the same procedure as before to update the f
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](IMG_5043.jpg)  
+![](img/IMG_5043.jpg)  
 Thank you for your time.  
 
 ## Customise
