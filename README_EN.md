@@ -65,16 +65,16 @@ The two switches here may come in contact with the Pro Micro, so cut off the leg
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
 ![](img/IMG_5009.jpg)  
 
-Plug the short end of the pin header into the board.
+Plug the short end of the pin header into the board.  
 ![](img/IMG_5010.jpg)   
 
-Place the Pro Micro and cut off the pins.
+Place the Pro Micro and cut off the pins.  
 ![](img/IMG_5011.jpg)   
 ![](img/IMG_5013.jpg)   
 
 Solder Pro Micro.  
 ![](img/IMG_5014.jpg)   
-Solder the front side.
+Solder the front side.  
 ![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
