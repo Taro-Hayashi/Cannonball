@@ -6,7 +6,7 @@
 - [Customise](#Customise)
 
 ## Contents
-![](img/IMG_3856.jpg)
+![](img/IMG_4971.jpg)
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|1||
@@ -24,13 +24,13 @@
 |13|Dial Rotary Encoder|1|EC11|
 |14|Knob|1||
 |15|Wheel Rotary Encoders|2|EVQWGD001|
-|16|Lever Switches|2|Assembled|
-|17|Rubber feet|6||
+|16|Rubber feet|6||
+|17|Pro Micro|1||
+|18|Lever Switches|2|Assembled|
 
 ## Additional required
 |Name|Quantities||
 |-|-|-|
-|Pro Micro (With Conthrough)|1|[Yushakobo](https://shop.yushakobo.jp/en/products/promicro-spring-pinheader)|
 |Switches|9|Kailh Low Profile Switches V1/V2|
 |Keycaps|9|8: 1U, 1: 2U|
 |Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
@@ -38,13 +38,11 @@
 ## Optional
 |Name|Quantities||
 |-|-|-|
+|Conthrough|2|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
 |SK6812MINI-E|9|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|3|[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
-Remove protection plate, screws and spacers.  
-![](img/IMG_2762.jpg)  
-
 Install the diodes from D1 to D13.  
 ![](img/diode0.jpg)  
 Diodes have a direction.  
