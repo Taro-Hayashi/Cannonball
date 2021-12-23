@@ -38,8 +38,8 @@
 ## Optional
 |Name|Quantities||
 |-|-|-|
-|Conthrough|2|[Usage](conthrough_EN)|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
-|SK6812MINI-E|9|[Usage](led_EN)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
+|Conthrough|2|[Usage](conthrough_EN.md)|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
+|SK6812MINI-E|9|[Usage](led_EN.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
 |WS2812B|3||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
 
 ## Soldering
