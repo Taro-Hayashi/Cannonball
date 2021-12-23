@@ -1,16 +1,12 @@
-# レバースイッチのはんだ付け
+The conthrough allows the Pro Micro to be inserted and removed from the board.
 
-ランドにフラックスを塗って位置決め用の穴に合わせて乗せます。  
-![](img/lever2.jpg)  
+Stand the consule on the back side of the board.    
+![](img/IMG_5297.jpg)  
+Make sure that the windows of the conthrough are high and facing the same direction.    
+There is no soldering on the board side.  
+  
+Place the Pro Micro on it.   
+![](img/IMG_5298.jpg)  
+Solder the Pro Micro. 
+![](img/IMG_5299.jpg)   
 
-ピンセットでレバースイッチを押さえながら、はんだごてに乗せたはんだを手前のランドにのせていきます。  
-![](img/lever3.jpg)  
-
-左右はレバーを押さえながらはんだ付けします。  
-![](img/lever5.jpg)  
-これら4つは取り付け強度を上げるためのランドで、電気的にはどことも繋がっていません。  
-
-![](img/lever6.jpg)  
-左右にある二股に分かれている接点ははんだが乗りにくいので無理に接着しなくても大丈夫です。  
-
-ブラウザの機能で戻ってください。
