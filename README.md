@@ -47,30 +47,30 @@
 
 ### 必要な工具
 100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
-|工具名|Amazon|
-|-|-|
-|はんだごて|[FX511-01](https://amzn.to/3IEGO5w)、[FX600-02](https://amzn.to/3oKNQOg)||
-|こて先クリーナー（こて台）|[FH300-81](https://amzn.to/3yuB3CV)、[599B-01](https://amzn.to/3DFsZjD)|
-|鉛入りはんだ|[FS407-01](https://amzn.to/31S71fO)|
-|精密ドライバー|[TSD-6](https://amzn.to/3dEQvm7)|
-|ニッパー等ダイオードの足を切れるもの|[エコー金属 鍛造ニッパー](https://amzn.to/31S75fU)|
-|エポシキ接着剤|[ボンド ハイスピードエポ](https://amzn.to/3FmPPhB)|
+|工具名|
+|-|
+|はんだごて|
+|こて先クリーナー（こて台）|
+|鉛入りはんだ|
+|精密ドライバー|
+|ニッパー等ダイオードの足を切れるもの|
+|エポシキ接着剤|
 |Microsoft Edge、もしくはGoogle Chrome||
 
 ### あると便利な工具
-|工具名||Amazon|
-|-|-|-|
-|耐熱シリコンマット||[ノーブランド](https://amzn.to/3rYlcuW)|
-|温度調節可能なはんだごて|★|[FX600-02](https://amzn.to/3oKNQOg)|[]()|
-|斜めに切ったタイプのこて先|★|[FX600用 T18-C2](https://amzn.to/3pGqbNW)|
-|フラックス|★|[HAKKO 001-01](https://amzn.to/3dNy4vr)|
-|フラックスリムーバー、IPA|★|[GZ901](https://amzn.to/3yeiMtj)|
-|ピンセット|★|[ANEX ピンセット No.126](https://amzn.to/3GxKNPp)|
-|マスキングテープ|★|[3M マスキングテープ 8巻パック](https://amzn.to/31G4Qwt)|
-|耐熱絶縁テープ（カプトンテープ）||[秋月電子通商](https://akizukidenshi.com/catalog/g/gT-09378/)、[Amazon](https://amzn.to/3yzlEko)|
-|テスター||[TDX-200](https://amzn.to/3rXlaDI)|
-|はんだ吸い取り線||[FR150-88](https://amzn.to/3pPWWZ5)|
-|はんだ吸い取り器||[DS01P](https://amzn.to/31RlusN)|
+|工具名|
+|-|
+|耐熱シリコンマット|
+|温度調節可能なはんだごて|
+|斜めに切ったタイプのこて先|
+|フラックス|
+|フラックスリムーバー、IPA|
+|ピンセット|
+|マスキングテープ|
+|耐熱絶縁テープ（カプトンテープ）|
+|テスター|
+|はんだ吸い取り線|
+|はんだ吸い取り器|
 
 ## 準備
 キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
