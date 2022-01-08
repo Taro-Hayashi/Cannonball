@@ -46,7 +46,6 @@
 |表面実装タイプのダイオード（1N4148W）|13||[遊舎工房](https://shop.yushakobo.jp/products/a0800di-02-100)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/diode_smd)、[秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07084/)|
 
 ### 必要な工具
-100円ショップで売っているもので十分ですが、はんだごては500円商品なので同程度の価格のFX511-01がおすすめです。
 |工具名|
 |-|
 |はんだごて|
