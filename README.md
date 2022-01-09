@@ -33,8 +33,8 @@
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|キースイッチ|9|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2))
-|キーキャップ|9|V1は専用、V2はCherryMXです。|
+|キースイッチ|9|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
+|キーキャップ|9|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2はCherryMXです。|
 |Micro USB ケーブル|1||
 
 ### オプション
