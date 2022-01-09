@@ -40,7 +40,7 @@
 ### オプション
 |部品名|数|||
 |-|-|-|-|
-|コンスルー12ピン|2|高さ2.5mm、[使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
+|コンスルー12ピン|2|高さ2.5mm、 [使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
 |SK6812MINI-E|9|バックライトLED|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
 |WS2812B|3|アンダーグローLED|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
 
