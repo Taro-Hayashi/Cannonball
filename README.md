@@ -31,11 +31,11 @@
 |18|レバースイッチ|2|メインボードに取り付け済み。|
 
 ### キット以外に必要なもの
-|部品名|数|||
-|-|-|-|-|
-|キースイッチ|9|Kailhロープロファイル（V1, V2)|V1：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、[Daily Craft Keyboard](https://shop.dailycraft.jp/collections/choc-switches)、V2：[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2)|
-|キーキャップ|9|V1は専用、V2はCherryMXです。||
-|Micro USB ケーブル|1||[遊舎工房](https://shop.yushakobo.jp/products/usb-cable-micro-b-0-8m)、[TALPKEYBOARD](https://talpkeyboard.net/items/5df82904a551d528d7360c34)、[Daily Craft Keyboard](https://shop.dailycraft.jp/products/usb_cable)|
+|部品名|数||
+|-|-|-|
+|キースイッチ|9|[Kailh choc V1](https://shop.yushakobo.jp/collections/all-switches/products/pg1350)、もしくは[Kailh Choc V2](https://shop.yushakobo.jp/collections/all-switches/products/kailh-choc-v2))
+|キーキャップ|9|V1は専用、V2はCherryMXです。|
+|Micro USB ケーブル|1||
 
 ### オプション
 |部品名|数|||
