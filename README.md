@@ -220,6 +220,11 @@ ChromeかEdgeでRemapにアクセスしてください。
 レイアウトオプションから方向を変えることができます。  
 ![](img/c.jpg)  
 
+## レイアウトの保存と復元
+⇔アイコンで作ったレイアウトを保存することができます。  
+いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
+![](img/re.jpg)  
+
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/cannonball
