@@ -216,18 +216,15 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
 
-## 左手で使う場合
-左手レイアウト用のJSONファイルをダウンロードして、Remapに読み込ませてください。
-- [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
-![](img/remapleft.png)  
+レイアウトオプションから方向を変えることができます。  
+![](img/c.jpg)  
 
 ## その他
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/cannonball
 
 VIA用JSONファイル
-- 右手用 [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball.json)  
-- 左手用 [cannonball_left.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.15/cannonball_left.json)  
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/15.20/cannonball.json)  
 
 プレートのデザインデータ  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
