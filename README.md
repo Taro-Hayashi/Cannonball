@@ -226,7 +226,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 
 ## その他
 ファームウェアのフォルダ  
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/cannonball
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
 VIA用JSONファイル
 - [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/15.20/cannonball.json)  
