@@ -1,4 +1,4 @@
-# BLE Micro Pro 使用例（Cannonball カーソルパッド, Handyman マクロパッド共通）
+# BLE Micro Pro 使用例
 ![](img/IMG_0120.jpeg)
 
 ## 用意するもの
