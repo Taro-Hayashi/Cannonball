@@ -35,8 +35,7 @@
 BLE Micro Pro WebConfigratorにGoogle Chromeでアクセスしてください。 
 - BLE Micro Pro WebConfigrator https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/  
 
-"ナビゲーション付き〜"の青いボタンをクリックしてあとは画面に従ってインストールしてください。
-![](img/select.jpg)  
+"ナビゲーション付き〜"の青いボタンをクリックしてあとは画面に従ってインストールしてください。  
   
 エンコーダーの回転が反映されない場合はENCODER.JSNをこちらに上書きしてください。
 - Handyman用 https://github.com/Taro-Hayashi/Handyman/releases/download/0.18.14/ENCODER.JSN
