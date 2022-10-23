@@ -36,6 +36,11 @@ BLE Micro Pro WebConfigratorにGoogle Chromeでアクセスしてください。
 - BLE Micro Pro WebConfigrator https://sekigon-gonnoc.github.io/BLE-Micro-Pro-WebConfigurator/  
 
 "ナビゲーション付き〜"の青いボタンをクリックしてあとは画面に従ってインストールしてください。
+![](img/select.jpg)  
+  
+エンコーダーの回転が反映されない場合はENCODER.JSNをこちらに上書きしてください。
+- Handyman用 https://github.com/Taro-Hayashi/Handyman/releases/download/0.18.14/ENCODER.JSN
+- Cannonball用 https://github.com/Taro-Hayashi/Cannonball/releases/download/0.18.14/ENCODER.JSN
 
 ## その他
 取り外し頻度が高い場合はBLE Micro Proの上に乗せるように電池基板を固定すると取り回しがよくなります。その場合は15mmスペーサーを使ってください。  
