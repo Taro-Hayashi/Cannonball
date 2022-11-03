@@ -229,6 +229,9 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/re.jpg)  
 
 ## その他
+Bluetooth接続
+- [BLE Micro Pro使用例](ble.md)
+
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
