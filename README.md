@@ -83,11 +83,12 @@
 ## はんだ付け
 はんだ付けのやり方は動画で見るとわかりやすいです。  
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
+ - ホームセンターのDCMさんの解説動画(58秒～)
 [![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
- - ホームセンターのDCMさんの解説動画(58秒～) https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s
 
 ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
 ご購入の前に雰囲気を掴んだり、見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
+ - ホームセンターのDCMさんの解説動画(58秒～)
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ### LEDのはんだ付け
