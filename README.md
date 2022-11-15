@@ -87,7 +87,7 @@
 [![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
 
 ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
-ご購入の前に雰囲気を掴んだり、見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
+ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
  - ぱいとん様のゆっくり実況動画  
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
