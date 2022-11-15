@@ -70,12 +70,14 @@
 |はんだ吸い取り線|
 |はんだ吸い取り器|
 
+
+[![alt設定](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)
+
 ## 準備
 キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
 ![](img/IMG_4972.jpg)  
 両サイドと手前側のはんだ付けされてるところに少し厚めに塗ります。端子の中に入り込まないように気を付けます。
 ![](img/IMG_5093.jpg)  
-黒い基板のPro Microを使う場合は必須の工程ではありません。  
 乾燥させている間にはんだ付けを進めましょう。  
   
 ## はんだ付け
