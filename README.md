@@ -70,8 +70,8 @@
 |はんだ吸い取り線|
 |はんだ吸い取り器|
 
-ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。ご購入の前に雰囲気を掴んだり、見ながら作業するとわかりやすいと思いますのでぜひご覧ください。
-[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)
+ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。ご購入の前に雰囲気を掴んだり、見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
+[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ## 準備
 キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
