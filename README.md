@@ -73,10 +73,10 @@
 
 
 ## 準備
-キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
-![](img/IMG_4972.jpg)  
+Pro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
+![](img/IMG_1011.jpeg)  
 両サイドと手前側のはんだ付けされてるところに少し厚めに塗ります。端子の中に入り込まないように気を付けます。
-![](img/IMG_5093.jpg)  
+![](img/IMG_1020.jpeg)  
 乾燥させている間にはんだ付けを進めましょう。  
 
   
@@ -85,11 +85,6 @@
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～)  
 [![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
-
-ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
-ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
- - ぱいとん様のゆっくり実況動画  
-[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ### LEDのはんだ付け
 
@@ -239,6 +234,11 @@ ChromeかEdgeでRemapにアクセスしてください。
 ## その他
 Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
+
+ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
+ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
+ - ぱいとん様のゆっくり実況動画  
+[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
