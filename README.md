@@ -232,24 +232,25 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/re.jpg)  
 
 ## その他
-Bluetooth接続
+### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
 
+### ぱいとん様のゆっくり実況動画  
 ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
 ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
- - ぱいとん様のゆっくり実況動画  
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
-ファームウェアのフォルダ  
+### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
-VIA用JSONファイル
+### VIA用JSONファイル
 - [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/15.20/cannonball.json)  
 
-プレートのデザインデータ  
+### プレートのデザインデータ  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
+### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
@@ -260,5 +261,6 @@ https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
 
+### 販売サイト
 - 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
 - BOOTH: https://tarohayashi.booth.pm/items/3172502
