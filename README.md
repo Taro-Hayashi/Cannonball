@@ -4,10 +4,10 @@
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [カスタマイズ](#カスタマイズ)
-- [おまけ](#おまけ)
+- [その他](#その他)
 
 ## キット内容
-![](img/IMG_4971.jpg) 
+![](img/IMG_1757.jpeg) 
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1||
@@ -37,12 +37,12 @@
 |Micro USB ケーブル|1||
 
 ### オプション
-|部品名|数|||
-|-|-|-|-|
-|色違いアクリルプレート|||[遊舎工房 - キーボードアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|
-|コンスルー 12ピン|2|高さ2.5mm, [使い方](conthrough.md)|[遊舎工房](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537) / [TALPKEYBOARD](https://talpkeyboard.net/items/5e056626d790db16e2889233) / [Daily Craft Keyboard](https://shop.dailycraft.jp/products/conthrough)|
-|SK6812MINI-E|9|バックライト|[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-15478/)|
-|WS2812B|3|アンダーグロー|[遊舎工房](https://shop.yushakobo.jp/products/a0800ws-01-10) / [秋月電子通商](https://akizukidenshi.com/catalog/g/gI-07915/)|
+|部品名|数||
+|-|-|-|
+|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
+|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|アンダーグロー|
+|[色違いアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|||
+|[コンスルー 12ピン、高さ2.5mm](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|2|[使い方](conthrough.md)|
 
 ### 必要な工具
 |工具名|
@@ -73,10 +73,10 @@
 
 
 ## 準備
-キットに付属のPro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
-![](img/IMG_4972.jpg)  
+Pro MicroはMicro-USB端子がもげやすいのでエポシキ接着剤で補強します。  
+![](img/IMG_1011.jpeg)  
 両サイドと手前側のはんだ付けされてるところに少し厚めに塗ります。端子の中に入り込まないように気を付けます。
-![](img/IMG_5093.jpg)  
+![](img/IMG_1020.jpeg)  
 乾燥させている間にはんだ付けを進めましょう。  
 
   
@@ -85,11 +85,6 @@
 パーツは思ったより壊れないので落ち着いて作業すると失敗しにくいです。  
  - ホームセンターのDCMさんの解説動画(58秒～)  
 [![](http://img.youtube.com/vi/JFQg_ObITYE/0.jpg)](https://www.youtube.com/watch?v=JFQg_ObITYE&t=58s)  
-
-ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
-ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
- - ぱいとん様のゆっくり実況動画  
-[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ### LEDのはんだ付け
 
@@ -237,19 +232,25 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/re.jpg)  
 
 ## その他
-Bluetooth接続
+### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
 
-ファームウェアのフォルダ  
+### ぱいとん様のゆっくり実況動画  
+ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
+ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
+[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
+
+### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
-VIA用JSONファイル
+### VIA用JSONファイル
 - [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/15.20/cannonball.json)  
 
-プレートのデザインデータ  
+### プレートのデザインデータ  
 [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
+### 謝辞
 foostan様のフットプリントを流用、改変して使わせていただきました。  
 https://github.com/foostan/kbd/  
 https://github.com/foostan/kbd/blob/master/LICENSE  
@@ -260,5 +261,6 @@ https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />この キット は <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。
 
+### 販売サイト
 - 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
 - BOOTH: https://tarohayashi.booth.pm/items/3172502
