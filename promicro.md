@@ -5,9 +5,7 @@
 |Pro Micro|○|○|○|
 |Type-C版Pro Micro|×|×|○|
 |Elite-C|○|○|○|
-|Elite-Pi|△|△|△|
 
-△: 未検証、要QMKビルド環境  
 
 ## コンスルーの使い方
 
