@@ -37,12 +37,13 @@
 |Micro USB ケーブル|1||
 
 ### オプション
+ - [Pro Micro互換品とコンスルーの対応表](promicro.md)  
+ 
 |部品名|数||
 |-|-|-|
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
 |[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|アンダーグロー|
 |[色違いアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|||
-|[コンスルー 12ピン、高さ2.5mm](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|2|[使い方](conthrough.md)|
 
 ### 必要な工具
 |工具名|
@@ -116,7 +117,7 @@ D1からD13までダイオードを取り付けます。
 Pro Microの取り付け場所にピンヘッダーの短い側を差し込みます。
 ![](img/IMG_1833.jpeg)  
 位置決めのためにPro Mioroを乗せますが、はんだ付けはせず表にします。
-![](img/IMG_1834.jpeg) 
+![](img/IMG_1834.jpg) 
 ![](img/IMG_1842.jpeg)  
 メインボードにピンヘッダーをはんだ付けします。
 ![](img/IMG_1849.jpeg)  
