@@ -44,6 +44,8 @@
 |[色違いアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|||
 |[コンスルー 12ピン、高さ2.5mm](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|2|[使い方](conthrough.md)|
 
+[Pro Micro互換品とコンスルーの対応表](promicro.md)
+
 ### 必要な工具
 |工具名|
 |-|
