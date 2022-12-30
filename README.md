@@ -37,7 +37,7 @@
 |Micro USB ケーブル|1||
 
 ### オプション
-[Pro Micro互換品とコンスルーの対応表](promicro.md)
+ - [Pro Micro互換品とコンスルーの対応表](promicro.md)
 |部品名|数||
 |-|-|-|
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
