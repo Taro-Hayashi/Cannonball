@@ -1,6 +1,6 @@
 # Pro Micro互換品とコンスルーの対応表
 
-||ピンヘッダ|2.5mmコンスルー|3.5mmコンスルー|
+||ピンヘッダ|2.5mmコンスルー|[3.5mmコンスルー](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)|
 |-|-|-|-|
 |Pro Micro|○|○|○|
 |Type-C版Pro Micro|×|×|○|
