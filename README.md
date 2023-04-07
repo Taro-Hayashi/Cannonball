@@ -190,9 +190,8 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/remap06.jpg)  
 
 ## カスタマイズ
-このキットはレイヤー機能を使っています。  
-![](img/layout.jpg)  
-[Keyboard Layout Editor で見る](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
+標準では次のようなキー設定になっています。」  
+![](img/keymap.png)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
