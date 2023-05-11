@@ -42,19 +42,19 @@
 
 ## Soldering
 Install the diodes from D1 to D13.  
-![](img/IMG_4998.jpg)  
+![](img/IMG_1794.jpg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
-![](img/IMG_5002.jpg)  
+![](img/IMG_1798.jpeg) 
 
 Solder and cut the legs.  
-![](img/IMG_5003.jpg)  
+![](img/IMG_1800.jpeg)  
 
 Solder Tactile Switches.  
-![](img/IMG_5005.jpg)  
+![](img/IMG_1805.jpeg) 
 If you want to remove the flux from the surface, now is the time.  
-![](img/IMG_5006.jpg)  
+![](img/IMG_1821.jpeg) 
 
 Solder Switches.  
 ![](img/IMG_5007.jpg)  
@@ -76,12 +76,11 @@ Solder the front side.
 ![](img/IMG_5017.jpg)   
 
 Solder rotary encoders.  
-![](img/IMG_5019.jpg)  
-![](img/IMG_5021.jpg)  
-![](img/IMG_5024.jpg)  
-![](img/IMG_5022.jpg)
-![](img/IMG_5025.jpg)  
-![](img/IMG_5024.jpg)  
+![](img/IMG_1887.jpeg)  
+![](img/IMG_1895.jpeg)   
+![](img/IMG_1901.jpeg)   
+![](img/IMG_1904.jpeg)  
+![](img/IMG_1905.jpeg)  
 
 
 ## Testing
