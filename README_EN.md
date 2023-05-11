@@ -107,10 +107,6 @@ Attach the short and middle spacers to the red circle.
 There will be middle spacers on the side of the key switch.  
 ![](img/IMG_1923.jpeg)  
 
-Attach short spacers on the back of the main board with short screws.  
-And fit the middle plate #1.  
-![](img/IMG_5031.jpg)  
-
 Fasten the middle plate #2 and the back plate with long screws.  
 ![](img/IMG_1937.jpeg)  
 ![](img/IMG_1940.jpeg)  
