@@ -64,13 +64,6 @@ In the case of the choc V1 switch, one of the legs will interfere with the switc
 ![](img/IMG_1145.jpg)  
 ![](img/IMG_1148.jpg)  
 
-Plug the short end of the pin header into the board.  
-![](img/IMG_5010.jpg)   
-
-Place the Pro Micro and cut off the pins.  
-![](img/IMG_5011.jpg)   
-![](img/IMG_5013.jpg)   
-
 Solder Pro Micro.  
 ![](img/IMG_1874.jpeg)  
 ![](img/IMG_1878.jpeg)  
