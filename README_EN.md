@@ -57,11 +57,12 @@ If you want to remove the flux from the surface, now is the time.
 ![](img/IMG_1821.jpeg) 
 
 Solder Switches.  
-![](img/IMG_5007.jpg)  
+![](img/IMG_1852.jpeg)  
 The two switches here may come in contact with the Pro Micro, so cut off the legs before soldering.  
-![](img/IMG_5008.jpg)  
+![](img/IMG_1859.jpeg)  
 In the case of the choc V1 switch, one of the legs will interfere with the switch, so cut it short.  
-![](img/IMG_5009.jpg)  
+![](img/IMG_1145.jpg)  
+![](img/IMG_1148.jpg)  
 
 Plug the short end of the pin header into the board.  
 ![](img/IMG_5010.jpg)   
@@ -71,9 +72,8 @@ Place the Pro Micro and cut off the pins.
 ![](img/IMG_5013.jpg)   
 
 Solder Pro Micro.  
-![](img/IMG_5014.jpg)   
-Solder the front side.  
-![](img/IMG_5017.jpg)   
+![](img/IMG_1874.jpeg)  
+![](img/IMG_1878.jpeg)  
 
 Solder rotary encoders.  
 ![](img/IMG_1887.jpeg)  
@@ -143,15 +143,15 @@ JSON for VIA
 - [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.20.7/cannonball.json)  
 
 Plates data  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
+- [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 
 Used foostan's footprint.  
-https://github.com/foostan/kbd/  
-https://github.com/foostan/kbd/blob/master/LICENSE  
+- https://github.com/foostan/kbd/  
+- https://github.com/foostan/kbd/blob/master/LICENSE  
 
 Used plut0nium's footprint.  
-https://github.com/plut0nium/0xLib  
-https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
+- https://github.com/plut0nium/0xLib  
+- https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
