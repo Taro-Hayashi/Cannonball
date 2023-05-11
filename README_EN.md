@@ -6,13 +6,13 @@
 - [Customise](#Customise)
 
 ## Contents
-![](img/IMG_4971.jpg)
+![](img/IMG_1757.jpeg) 
 ||Name|Quantities| |
 |-|-|-|-|
 |1|Main board|1||
-|2|Middle plate #1|1||
-|3|Middle plate #2|1||
-|4|Bottom plate|1||
+|2|Bottom plate|1||
+|3|Middle plate #1|1||
+|4|Middle plate #2|1||
 |5|Cover plate|1||
 |6|Short screws|4|3mm|
 |7|Middle screws|2|4mm|
@@ -26,21 +26,19 @@
 |15|Wheel Rotary Encoders|2|EVQWGD001|
 |16|Rubber feet|6||
 |17|Pro Micro|1||
-|18|Lever Switches|2|Assembled|
 
 ## Additional required
 |Name|Quantities||
 |-|-|-|
 |Switches|9|Kailh Low Profile Switches V1/V2|
 |Keycaps|9|8: 1U, 1: 2U|
-|Micro-USB Cable|1|[Yushakobo](https://shop.yushakobo.jp/en/products/usb-cable-micro-b-0-8m)|
+|USB Cable|1||
 
 ## Optional
 |Name|Quantities|||
 |-|-|-|-|
-|Conthrough|2|[Usage](conthrough_EN.md)|[Yushakobo](https://shop.yushakobo.jp/products/31?_pos=1&_sid=ca92edae3&_ss=r&variant=37665714405537)|
-|SK6812MINI-E|9|[Usage](led_EN.md)|[Yushakobo](https://shop.yushakobo.jp/en/products/sk6812mini-e-10)|
-|WS2812B|3||[Yushakobo](https://shop.yushakobo.jp/en/products/a0800ws-01-10)|
+|SK6812MINI-E|9|[Usage](led_EN.md)||
+|WS2812B|3||
 
 ## Soldering
 Install the diodes from D1 to D13.  
