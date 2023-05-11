@@ -103,27 +103,27 @@ If there are no problems, soldering is finished.
 Disconnect the USB cable. 
 
 Attach the short and middle spacers to the red circle.  
-![](img/IMG_5027.jpg)  
+![](img/IMG_1928.jpeg)   
 There will be middle spacers on the side of the key switch.  
-![](img/IMG_5029.jpg)  
+![](img/IMG_1923.jpeg)  
 
 Attach short spacers on the back of the main board with short screws.  
 And fit the middle plate #1.  
 ![](img/IMG_5031.jpg)  
 
 Fasten the middle plate #2 and the back plate with long screws.  
-![](img/IMG_5032.jpg)  
-![](img/IMG_5037.jpg)  
+![](img/IMG_1937.jpeg)  
+![](img/IMG_1940.jpeg)  
 
 Attach cover plate to the front with middle screws.  
-![](img/IMG_5038.jpg)  
+![](img/IMG_1948.jpeg)  
 
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 ![](img/remap06.jpg)  
 
 Attaching the knob and rubber feet.  
-![](img/IMG_5043.jpg)  
+![](img/IMG_1951.jpeg)  
 Thank you for your time.  
 
 ## Customise
