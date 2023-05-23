@@ -43,7 +43,7 @@
 |[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
 |[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|アンダーグロー|
 
-#### Type-Cに変更する場合
+#### USB Type-Cに変更する場合
 |部品名|数||
 |-|-|-|
 |Type-C版Pro Micro|1|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/promicro_typec)、 [Talpkeyboard](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)、[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
