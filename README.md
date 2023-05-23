@@ -37,7 +37,8 @@
 
 ### オプション
 
-|[色違いアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|||
+[色違いアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)
+
 #### LEDを光らせる場合
 |部品名|数||
 |-|-|-|
@@ -50,7 +51,7 @@
 |3.5mmコンスルー|2|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough_12_35)、[マルツ電子](https://www.marutsu.co.jp/pc/i/2349912/)、[Talpkeyboard](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)|
 
 使用方法はこちら
-- [コンスルーの使用方法とPro Micro互換品の対応表]promicro.md)  
+- [コンスルーの使用方法とPro Micro互換品の対応表](promicro.md)  
 
 ### 必要な工具
 |工具名|
