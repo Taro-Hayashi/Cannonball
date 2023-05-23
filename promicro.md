@@ -1,12 +1,3 @@
-# Pro Micro互換品とコンスルーの対応表
-
-||付属ピンヘッダ|[2.5mmコンスルー](https://shop.yushakobo.jp/products/31?variant=37665714405537)|[3.5mmコンスルー](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)|
-|-|-|-|-|
-|Pro Micro|○|○|○|
-|Type-C版Pro Micro|×|×|○|
-|Elite-C|○|○|○|
-
-
 ## コンスルーの使い方
 
 コンスルーを使うとPro Microを基板に抜き差しできるようになります。
@@ -24,5 +15,13 @@ Pro Microをはんだ付けします。
 
 3.5mmコンスルーをご利用の場合は高さ方向に余裕がないためはんだを盛りすぎないように気をつけてください。
 ![](img/IMG_2007.jpg) 
+
+# Pro Micro互換品とコンスルーの対応表
+
+||付属ピンヘッダ|[2.5mmコンスルー](https://shop.yushakobo.jp/products/31?variant=37665714405537)|[3.5mmコンスルー](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)|
+|-|-|-|-|
+|Pro Micro|○|○|○|
+|Type-C版Pro Micro|×|×|○|
+|Elite-C|○|○|○|
 
 ブラウザの機能で戻ってください。  
