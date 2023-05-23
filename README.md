@@ -54,7 +54,6 @@
 
 #### 色違いのアクリルプレート
 - [キーボードアクリルプレート（遊舎工房）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)
-- [プレートのデザインデータ](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 
 
 ### 必要な工具
