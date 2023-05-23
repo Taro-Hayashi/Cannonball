@@ -35,6 +35,15 @@
 |キーキャップ|9|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
 |Micro USB ケーブル|1||
 
+### 必要な工具
+|工具名|
+|-|
+|はんだごて|
+|はんだ|
+|精密ドライバー|
+|ニッパー等ダイオードの足を切れるもの|
+|エポシキ接着剤|
+
 ### オプション
 
 #### LEDを光らせる場合
@@ -55,15 +64,6 @@
 #### 色違いのアクリルプレート
 - [キーボードアクリルプレート（遊舎工房）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)
 
-
-### 必要な工具
-|工具名|
-|-|
-|はんだごて|
-|はんだ|
-|精密ドライバー|
-|ニッパー等ダイオードの足を切れるもの|
-|エポシキ接着剤|
 
 ## 準備
 Pro MicroはMicro-USB端子をエポシキ接着剤で補強します。  
