@@ -294,11 +294,6 @@ LSFT_T(KC_Z)
 詳しくはこちらをご覧ください。
 - https://github.com/qmk/qmk_firmware/blob/master/docs/feature_layers.md
 ## その他
-
-### ファームウェアまとめ
-- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
-- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
-
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
 
@@ -307,6 +302,14 @@ LSFT_T(KC_Z)
 ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
+
+### ファームウェアまとめ
+- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
+- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+
+### VIA用JSON
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)
+  
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
