@@ -75,23 +75,6 @@ Solder rotary encoders.
 ![](img/IMG_1904.jpeg)  
 ![](img/IMG_1905.jpeg)  
 
-
-## Testing
-Connect one of them to the PC with a USB cable.  
-Access Remap's firmware page with Chrome or Edge.  
-- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
-
-Flash the Test firmware.  
-![](img/remap02.jpg)  
-![](img/remap03.jpg)  
-
-Push the tactile switch.  
-![](img/remap04.jpg) 
-![](img/remap05.jpg) 
-
-Make sure all switches are responsive.  
-If there are no problems, soldering is finished.  
-
 ## Assembling
 Disconnect the USB cable. 
 
@@ -107,37 +90,21 @@ Fasten the middle plate #2 and the back plate with long screws.
 Attach cover plate to the front with middle screws.  
 ![](img/IMG_1948.jpeg)  
 
-After installing the keycap, follow the same procedure as before to update the firmware for production.  
-- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
-![](img/remap06.jpg)  
-
 Attaching the knob and rubber feet.  
 ![](img/IMG_1951.jpeg)  
 Thank you for your time.  
-
-## Customise
-![](img/layout.jpg)  
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/2fe2023fd6a9318985b9c40c264c6cef)  
-
-Access Remap.  
-- Remap https://remap-keys.app/
-
-Select the blue button on the left to proceed.  
-![](img/remap1.png)  
-
-After Drag-and-Drop the keys, press the flash button in the upper right corner.  
-![](img/remap3.png)  
-
-## Misc
-Firmware
+### Firmware
+- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+ ### JSON for VIA  
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)  
+  
+### Firmware Code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
-JSON for VIA  
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.20.7/cannonball.json)  
-
-Plates data  
+### Plates data  
 - [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
 
+### Misc
 Used foostan's footprint.  
 - https://github.com/foostan/kbd/  
 - https://github.com/foostan/kbd/blob/master/LICENSE  

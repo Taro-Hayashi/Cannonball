@@ -136,25 +136,24 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 
 ### 動作テスト
 ロータリーエンコーダーを取り付ける前にPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつなぎ、こちらのファイルをダウンロードしてください。
+キットとPCをUSBケーブルでつないでください。   
 
-- [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
+下のwebサイトにアクセスしてください。
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
-こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスしてください。
+テストファームウェアを選んでFLASHします。
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
 
-- [Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html)
+キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します（初回のみリセットスイッチを2回押す必要があることがあります）。
+![](img/remap04.jpg) 
 
-先ほどダウンロードしたファイルを選択しflashを押すとダイアログが出てきます。
-![](/img/pwu1.png)  
+書き込みが完了したらウィンドウを閉じて大丈夫です。
+![](img/remap05.jpg) 
 
-リセットボタンを押すとダイアログにPro Microが出てくるのせ選択して接続します。
-※リセットボタンを2連打する必要がある場合があります。
-![](/img/pwu2.png)  
+アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。  
 
-自動的にファームウェアが書き込まれ、"Verify OK"が出れば書き込み完了です。
-![](/img/pwu3.png)  
-
-Pro Micro Web Updaterを使ってファームウェアの更新ができない場合は、QMK Toolboxをお試しください。  
+Remapを使ってファームウェアの更新ができない場合は、QMK Toolboxをお試しください。  
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
 
 ### ロータリーエンコーダーのはんだ付け
@@ -197,100 +196,34 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/IMG_1951.jpeg)  
 
 先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
-こちらのファームウェアをダウンロードして書き換えてしてください。
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
-※リセットボタンを押す代わりにUSBに一番近いキーを押しながらケーブルを接続し、少し待って離すことでも書き換え可能です。
+![](img/remap06.jpg)  
+
 ## キーのカスタマイズ
 標準では次のようなキー設定になっています。  
 ![](img/keymap.png)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
-こちらのJSONファイルをダウンロードしてください。
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)
+ChromeかEdgeでRemapにアクセスしてください。  
+- Remap https://remap-keys.app/
 
-こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスするか、VIAのアプリケーションをダウンロードして起動してください。  
-- [Web版VIA](https://usevia.app/#/design)
-- [アプリ版VIA](https://github.com/the-via/releases/releases)
+![](img/remap1.png)  
+左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
-DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります（アプリ版ではまずShow Design tabをオンにしてください）。
-![](/img/via1.png)  
+ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
+![](img/remap3.png)  
 
-CONFIGUREタブのAuthorize device+からCannonballを追加してください。
-JSONファイルは一度読み込むとブラウザに保存されるので次からは接続するだけで使うことができます。
-
-### 保存と復元
-VIAで設定したキーマップは保存、復元することができます。ファームウェアを入れ替えると初期化されるので保存しておくと便利です。
-![](/img/load.png)  
 ### 置く向きに合わせる
-LAYOUTSから見た目の左右を変更することができます。
-![](/img/layout.png)  
+レイアウトオプションから方向を変えることができます。  
+![](img/c.jpg)  
 
-### 通常のキーの割り当て
-入れ替えたいキーを上から選んで、下のキーコード一覧をクリックすると設定できます。
-![](/img/key.png)  
+### レイアウトの保存と復元
+⇔アイコンで作ったレイアウトを保存することができます。  
+いくつかサンプルをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
+![](img/re.jpg)  
 
-### ホイールのキーの割り当て
-丸いキーを選ぶとホイールに割り当てるキーを設定できます。
-![](/img/re.png)  
-
-
-### 特殊なキーの割り当て
-SPECIALタブのANYキーに直接入力することでいろいろな機能を設定することができます。
-![](img/any.png)  
-ここで紹介しているのはほんの一部です。
-#### 修飾キーの同時押し
-修飾キー（Shift、Ctrlなど）と通常のキーの組み合わせを1キーに割り当てることができます。
-|機能|キーコード|
-|-|-|
-|Ctrl|C(キーコード)|
-|Shift|S(キーコード)|
-|Win、Cmd|G(キーコード)|
-|Alt、Opt|A(キーコード)|
-|Ctrl+Shift|RCS(キーコード)|
-|Win、Cmd+Shift|LSG(キーコード)|
-
-例えばCtrl+Sのキーは
-~~~
-C(KC_S)
-~~~
-となります。
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/mod_tap.md
-
-#### Mod-Tap
-長押しで修飾キー、短押しで通常のキーが打てるようなキーを設定できます。
-
-|機能|キーコード|
-|-|-|
-|Ctrl|LCTL_T(キーコード)|
-|Shift|LSFT_T(キーコード)|
-|Win、Cmd|LGUI_T(キーコード)|
-|Alt、Opt|LALT_T(キーコード)|
-|Ctrl+Shift|RCS_T(キーコード)|
-|Win、Cmd+Shift|LSG_T(キーコード)|
-
-長押しでShift、短押しでZの場合は
-~~~
-LSFT_T(KC_Z)
-~~~
-です。
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/mod_tap.md
-
-#### レイヤーキー
-レイヤーの切り替え方法は複数あります。
-|機能|キーコード|
-|-|-|
-|押している間だけ切り替え|MO(レイヤー番号)|
-|押すと切り替え、もう一度押すと戻る|TG(レイヤー番号)|
-|長押しでレイヤー切り替え、短押しは通常キー|LT(レイヤー番号、キーコード)|
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/feature_layers.md
 ## その他
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
@@ -321,4 +254,3 @@ https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt
 ### 販売サイト
 - 遊舎工房: https://shop.yushakobo.jp/collections/keyboard/products/2797   
 - BOOTH: https://tarohayashi.booth.pm/items/3172502
-

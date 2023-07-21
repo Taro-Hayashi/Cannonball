@@ -1,9 +1,5 @@
 ## QMK Toolboxを使ったファームウェア更新方法
-Remapのファームウェアのページにアクセスしてください。  
-- [Cannonball CURSORPAD - Remap ](https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware)
 
-使用するファームウェアのDownloadをクリックしてファームウェアをダウンロードしてください。  
-![](img/Download.png)   
 QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください（Betaはおすすめしません）。  
 - [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
