@@ -237,6 +237,8 @@ LAYOUTSから見た目の左右を変更することができます。
 丸いキーを選ぶとホイールに割り当てるキーを設定できます。
 ![](/img/re.png)  
 
+QMK Firmwareのキーコードを入力してください。こちらに一覧があります。
+-  https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
 
 ### 特殊なキーの割り当て
 SPECIALタブのANYキーに直接入力することでいろいろな機能を設定することができます。
