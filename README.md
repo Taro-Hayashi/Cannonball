@@ -294,6 +294,11 @@ LSFT_T(KC_Z)
 詳しくはこちらをご覧ください。
 - https://github.com/qmk/qmk_firmware/blob/master/docs/feature_layers.md
 ## その他
+
+### ファームウェアまとめ
+- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
+- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
 
