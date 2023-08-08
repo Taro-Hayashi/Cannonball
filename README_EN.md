@@ -94,9 +94,9 @@ Attaching the knob and rubber feet.
 ![](img/IMG_1951.jpeg)  
 Thank you for your time.  
 ### Firmware
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
  ### JSON for VIA  
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)  
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)  
   
 ### Firmware Code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball

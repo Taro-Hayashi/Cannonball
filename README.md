@@ -138,7 +138,7 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 ロータリーエンコーダーを取り付ける前にPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
 キットとPCをUSBケーブルでつなぎ、こちらのファイルをダウンロードしてください。
 
-- [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
+- [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
 
 こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスしてください。
 
@@ -200,7 +200,7 @@ USBケーブルを抜いてプレートを組付けます。
 
 先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
 こちらのファームウェアをダウンロードして書き換えてしてください。
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
 
 ※リセットボタンを押す代わりにUSBに一番近いキーを押しながらケーブルを接続し、少し待って離すことでも書き換え可能です。
 ## キーのカスタマイズ
@@ -210,7 +210,7 @@ USBケーブルを抜いてプレートを組付けます。
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
 こちらのJSONファイルをダウンロードしてください。
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
 
 こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスするか、VIAのアプリケーションをダウンロードして起動してください。  
 - [Web版VIA](https://usevia.app/#/design)
@@ -305,12 +305,12 @@ LSFT_T(KC_Z)
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 
-### ファームウェアまとめ
-- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_test.hex)
-- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/tarohayashi_cannonball_via.hex)
+### ファームウェアまとめ（更新日: 2023/8/9）
+- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
+- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
 
-### VIA用JSON
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.4/cannonball.json)
+### VIA用JSON（更新日: 2023/8/9）
+- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
   
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball

@@ -1,6 +1,6 @@
 {
     "name": "Cannonball CURSORPAD",
-	"vendorId": "0x0884",
+	"vendorId": "0x8884",
 	"productId": "0x0887",
 	"matrix": { "rows": 5, "cols": 5 },
     "layouts": {
