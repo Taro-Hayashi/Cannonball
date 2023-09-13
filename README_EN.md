@@ -116,13 +116,15 @@ After installing the keycap, follow the same procedure as before to update the f
 ![](img/remap06.jpg)  
 
 ## Customise
-![](img/keymap.png)  
 
 Access Remap.  
 - Remap https://remap-keys.app/
 
 Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
+
+![](img/keymap.png)  
+
 
 After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
