@@ -130,7 +130,7 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 キットとPCをUSBケーブルでつないでください。   
 
 下のwebサイトにアクセスしてください。
-- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 テストファームウェアを選んでFLASHします。
 ![](img/remap02.jpg)  
@@ -189,8 +189,9 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/IMG_1951.jpeg)  
 
 先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
-こちらのファームウェアをダウンロードして書き換えてしてください。
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
+Remap用のファームウェアをダウンロードして書き換えてしてください。
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+
 
 ※リセットボタンを押す代わりにUSBに一番近いキーを押しながらケーブルを接続し、少し待って離すことでも書き換え可能です。
 ## キーのカスタマイズ
@@ -214,8 +215,9 @@ ChromeかEdgeでRemapにアクセスしてください。
 
 ## レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
-いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
 ![](img/re.jpg)  
+いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
+
 ## その他
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
@@ -225,14 +227,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
-
-### ファームウェアまとめ（更新日: 2023/8/9）
-- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
-- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
-
-### VIA用JSON
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
-  
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
