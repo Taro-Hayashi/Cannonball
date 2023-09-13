@@ -136,23 +136,22 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 
 ### 動作テスト
 ロータリーエンコーダーを取り付ける前にPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつなぎ、こちらのファイルをダウンロードしてください。
+キットとPCをUSBケーブルでつないでください。   
 
-- [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
+下のwebサイトにアクセスしてください。
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
 
-こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスしてください。
+テストファームウェアを選んでFLASHします。
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
 
-- [Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html)
+キット裏面のリセットスイッチを押すとArduino Microが現れるので、クリックして接続します（初回のみリセットスイッチを2回押す必要があることがあります）。
+![](img/remap04.jpg) 
 
-先ほどダウンロードしたファイルを選択しflashを押すとダイアログが出てきます。
-![](/img/pwu1.png)  
+書き込みが完了したらウィンドウを閉じて大丈夫です。
+![](img/remap05.jpg) 
 
-リセットボタンを押すとダイアログにPro Microが出てくるのせ選択して接続します。
-※リセットボタンを2連打する必要がある場合があります。
-![](/img/pwu2.png)  
-
-自動的にファームウェアが書き込まれ、"Verify OK"が出れば書き込み完了です。
-![](/img/pwu3.png)  
+アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。
 
 Pro Micro Web Updaterを使ってファームウェアの更新ができない場合は、QMK Toolboxをお試しください。  
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
