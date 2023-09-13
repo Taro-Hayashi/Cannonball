@@ -239,7 +239,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 - テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
 - 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
 
-### VIA用JSON（更新日: 2023/8/9）
+### VIA用JSON
 - [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
   
 ### ファームウェアのフォルダ  
