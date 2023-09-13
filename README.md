@@ -35,6 +35,16 @@
 |キーキャップ|9|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
 |Micro USB ケーブル|1||
 
+### オプション
+
+|部品名|数|
+|-|-|
+|[色違いのアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|1|
+|[Type-C版Pro Micro](https://shop.yushakobo.jp/products/3905)|1|
+|[コンスルー](https://shop.yushakobo.jp/products/31?variant=37665714405537)|2|
+|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|
+|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|
+
 ### 必要な工具
 |工具名|
 |-|
@@ -43,25 +53,6 @@
 |精密ドライバー|
 |ニッパー等ダイオードの足を切れるもの|
 |エポシキ接着剤|
-
-### オプション
-
-LEDを光らせる場合
-|部品名|数||
-|-|-|-|
-|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
-|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|アンダーグロー|
-
-USB Type-Cに変更する場合
-|部品名|数||
-|-|-|-|
-|Type-C版Pro Micro|1|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/promicro_typec)、[Talpkeyboard](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)、[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|3.5mmコンスルー|2|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough_12_35)、[Talpkeyboard](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)、[マルツ電子](https://www.marutsu.co.jp/pc/i/2349912/)|
-- [コンスルーの使用方法とPro Micro互換品の対応表](promicro.md)  
-
-色違いのアクリルプレート
-- [キーボードアクリルプレート（遊舎工房）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)
-
 
 ## 準備
 Pro MicroはMicro-USB端子をエポシキ接着剤で補強します。  
@@ -136,23 +127,22 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 
 ### 動作テスト
 ロータリーエンコーダーを取り付ける前にPro Microに動作ソフト（ファームウェア）を書き込んで動作確認をしましょう。  
-キットとPCをUSBケーブルでつなぎ、こちらのファイルをダウンロードしてください。
+キットとPCをUSBケーブルでつないでください。   
 
-- [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
+下のwebサイトにアクセスしてください。
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
-こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスしてください。
+テストファームウェアを選んでFLASHします。
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
 
-- [Pro Micro Web Updater](https://sekigon-gonnoc.github.io/promicro-web-updater/index.html)
+キット裏面のリセットスイッチを押すとArduino Microが現れるので、クリックして接続します（リセットスイッチを2回押す必要があることがあります）。
+![](img/remap04.jpg) 
 
-先ほどダウンロードしたファイルを選択しflashを押すとダイアログが出てきます。
-![](/img/pwu1.png)  
+書き込みが完了したらウィンドウを閉じて大丈夫です。
+![](img/remap05.jpg) 
 
-リセットボタンを押すとダイアログにPro Microが出てくるのせ選択して接続します。
-※リセットボタンを2連打する必要がある場合があります。
-![](/img/pwu2.png)  
-
-自動的にファームウェアが書き込まれ、"Verify OK"が出れば書き込み完了です。
-![](/img/pwu3.png)  
+アドレスバーやテキストエディタを使ってすべてのスイッチが反応することを確かめてください。
 
 Pro Micro Web Updaterを使ってファームウェアの更新ができない場合は、QMK Toolboxをお試しください。  
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
@@ -198,103 +188,33 @@ USBケーブルを抜いてプレートを組付けます。
 キーキャップとノブをつけて完成です。  
 ![](img/IMG_1951.jpeg)  
 
-先ほどと同様の手順で本番用のファームウェアに更新しましょう。  
-こちらのファームウェアをダウンロードして書き換えてしてください。
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
-
-※リセットボタンを押す代わりにUSBに一番近いキーを押しながらケーブルを接続し、少し待って離すことでも書き換え可能です。
+先ほどと同様の手順でRemap用のファームウェアに更新しましょう。  
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+- 
 ## キーのカスタマイズ
-標準では次のようなキー設定になっています。  
+標準ではUS配列設定でのキーマップになっています。  
 ![](img/keymap.png)  
 
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
-こちらのJSONファイルをダウンロードしてください。
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
+ChromeかEdgeでRemapにアクセスしてください。  
+- Remap https://qmk018.remap-keys.app
 
-こちらのwebサイトにGoogle ChromeかMicrosoft Edgeでアクセスするか、VIAのアプリケーションをダウンロードして起動してください。  
-- [Web版VIA](https://usevia.app/#/design)
-- [アプリ版VIA](https://github.com/the-via/releases/releases)
+![](img/remap1.png)  
+左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
-DESIGNタブのLoadでダウンロードしたJSONファイルを読み込ませるとキーの変更が出来るようになります（アプリ版ではまずShow Design tabをオンにしてください）。
-![](/img/via1.png)  
+ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
+![](img/remap3.png)  
 
-CONFIGUREタブのAuthorize device+からCannonballを追加してください。
-JSONファイルは一度読み込むとブラウザに保存されるので次からは接続するだけで使うことができます。
+## 方向を変える
+レイアウトオプションで方向を変えることができます。  
+![](img/h.jpg)  
 
-### 保存と復元
-VIAで設定したキーマップは保存、復元することができます。ファームウェアを入れ替えると初期化されるので保存しておくと便利です。
-![](/img/load.png)  
-### 置く向きに合わせる
-LAYOUTSから見た目の左右を変更することができます。
-![](/img/layout.png)  
+## レイアウトの保存と復元
+⇔アイコンで作ったレイアウトを保存することができます。  
+![](img/re.jpg)  
+いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
 
-### 通常のキーの割り当て
-入れ替えたいキーを上から選んで、下のキーコード一覧をクリックすると設定できます。
-![](/img/key.png)  
-
-### ホイールのキーの割り当て
-丸いキーを選ぶとホイールに割り当てるキーを設定できます。
-![](/img/re.png)  
-
-QMK Firmwareのキーコードを入力してください。こちらに一覧があります。
--  https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
-
-### 特殊なキーの割り当て
-SPECIALタブのANYキーに直接入力することでいろいろな機能を設定することができます。
-![](img/any.png)  
-ここで紹介しているのはほんの一部です。
-#### 修飾キーの同時押し
-修飾キー（Shift、Ctrlなど）と通常のキーの組み合わせを1キーに割り当てることができます。
-|機能|キーコード|
-|-|-|
-|Ctrl|C(キーコード)|
-|Shift|S(キーコード)|
-|Win、Cmd|G(キーコード)|
-|Alt、Opt|A(キーコード)|
-|Ctrl+Shift|RCS(キーコード)|
-|Win、Cmd+Shift|LSG(キーコード)|
-
-例えばCtrl+Sのキーは
-~~~
-C(KC_S)
-~~~
-となります。
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/mod_tap.md
-
-#### Mod-Tap
-長押しで修飾キー、短押しで通常のキーが打てるようなキーを設定できます。
-
-|機能|キーコード|
-|-|-|
-|Ctrl|LCTL_T(キーコード)|
-|Shift|LSFT_T(キーコード)|
-|Win、Cmd|LGUI_T(キーコード)|
-|Alt、Opt|LALT_T(キーコード)|
-|Ctrl+Shift|RCS_T(キーコード)|
-|Win、Cmd+Shift|LSG_T(キーコード)|
-
-長押しでShift、短押しでZの場合は
-~~~
-LSFT_T(KC_Z)
-~~~
-です。
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/mod_tap.md
-
-#### レイヤーキー
-レイヤーの切り替え方法は複数あります。
-|機能|キーコード|
-|-|-|
-|押している間だけ切り替え|MO(レイヤー番号)|
-|押すと切り替え、もう一度押すと戻る|TG(レイヤー番号)|
-|長押しでレイヤー切り替え、短押しは通常キー|LT(レイヤー番号、キーコード)|
-
-詳しくはこちらをご覧ください。
-- https://github.com/qmk/qmk_firmware/blob/master/docs/feature_layers.md
 ## その他
 ### Bluetooth接続
 - [BLE Micro Pro使用例](ble.md)
@@ -304,14 +224,6 @@ LSFT_T(KC_Z)
 ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
 [![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
-
-### ファームウェアまとめ（更新日: 2023/8/9）
-- テスト用 [tarohayashi_cannonball_test.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_test.hex)
-- 本番用 [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
-
-### VIA用JSON（更新日: 2023/8/9）
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)
-  
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
