@@ -75,6 +75,22 @@ Solder rotary encoders.
 ![](img/IMG_1904.jpeg)  
 ![](img/IMG_1905.jpeg)  
 
+## Testing
+Connect one of them to the PC with a USB cable.  
+Access Remap's firmware page with Chrome or Edge.  
+- https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+
+Flash the Test firmware.  
+![](img/remap02.jpg)  
+![](img/remap03.jpg)  
+
+Push the tactile switch.  
+![](img/remap04.jpg) 
+![](img/remap05.jpg) 
+
+Make sure all switches are responsive.  
+If there are no problems, soldering is finished.  
+
 ## Assembling
 Disconnect the USB cable. 
 
@@ -93,10 +109,9 @@ Attach cover plate to the front with middle screws.
 Attaching the knob and rubber feet.  
 ![](img/IMG_1951.jpeg)  
 Thank you for your time.  
-### Firmware
-- [tarohayashi_cannonball_via.hex](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/tarohayashi_cannonball_via.hex)
- ### JSON for VIA  
-- [cannonball.json](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.21.6/cannonball.json)  
+After installing the keycap, follow the same procedure as before to update the firmware for production.  
+- https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
+![](img/remap06.jpg)  
   
 ### Firmware Code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
