@@ -5,7 +5,8 @@
 - [組み立て](#組み立て)
 - [キーのカスタマイズ](#キーのカスタマイズ)
 - [その他](#その他)
-
+  
+最終更新日: 2023/09/14
 ## キット内容
 ![](img/IMG_1757.jpeg) 
 ||部品名|数| |
@@ -190,7 +191,7 @@ USBケーブルを抜いてプレートを組付けます。
 
 先ほどと同様の手順でRemap用のファームウェアに更新しましょう。  
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
-- 
+  
 ## キーのカスタマイズ
 標準ではUS配列設定でのキーマップになっています。  
 ![](img/keymap.png)  
@@ -206,11 +207,15 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップで変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap3.png)  
 
-## 方向を変える
+### 方向を変える
 レイアウトオプションで方向を変えることができます。  
-![](img/h.jpg)  
+![](img/layout.png)  
 
-## レイアウトの保存と復元
+### 特殊なキーを設定する
+FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
+![](img/shortcuts.png)  
+
+### レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
 ![](img/re.jpg)  
 いくつかサンプルがをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
@@ -228,7 +233,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
 ### プレートのデザインデータ  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/latest/download/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ### 謝辞
