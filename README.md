@@ -199,7 +199,7 @@ USBケーブルを抜いてプレートを組付けます。
 使わないキーを削除したり使用頻度の高いキーを押しやすい位置に変更してみましょう。  
 
 ChromeかEdgeでRemapにアクセスしてください。  
-- Remap https://qmk018.remap-keys.app
+- Remap https://remap-keys.app
 
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
