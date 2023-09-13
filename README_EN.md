@@ -116,8 +116,7 @@ After installing the keycap, follow the same procedure as before to update the f
 ![](img/remap06.jpg)  
 
 ## Customise
-![](img/layout.jpg)  
-[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
+![](img/keymap.png)  
 
 Access Remap.  
 - Remap https://remap-keys.app/
