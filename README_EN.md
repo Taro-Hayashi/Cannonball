@@ -109,10 +109,25 @@ Attach cover plate to the front with middle screws.
 Attaching the knob and rubber feet.  
 ![](img/IMG_1951.jpeg)  
 Thank you for your time.  
+  
 After installing the keycap, follow the same procedure as before to update the firmware for production.  
 - https://remap-keys.app/catalog/dTmFWd6gilf5ziDWE1TR/firmware
-![](img/remap06.jpg)  
   
+![](img/remap06.jpg)  
+
+## Customise
+![](img/layout.jpg)  
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/b1de3d8b33b46ababd2dff071c8af257)  
+
+Access Remap.  
+- Remap https://remap-keys.app/
+
+Select the blue button on the left to proceed.  
+![](img/remap1.png)  
+
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
+![](img/remap3.png)  
+
 ### Firmware Code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
