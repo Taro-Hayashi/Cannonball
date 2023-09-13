@@ -35,6 +35,16 @@
 |キーキャップ|9|V1は[専用キーキャップ](https://shop.yushakobo.jp/collections/keycaps/For-Choc-v1)、V2は[CherryMX互換](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97)です。|
 |Micro USB ケーブル|1||
 
+### オプション
+
+|部品名|数|
+|-|-|
+|[色違いのアクリルプレート](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)|1|
+|[Type-C版Pro Micro](https://shop.yushakobo.jp/products/3905)|1|
+|[コンスルー](https://shop.yushakobo.jp/products/31?variant=37665714405537)|2|
+|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|
+|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|
+
 ### 必要な工具
 |工具名|
 |-|
@@ -43,19 +53,6 @@
 |精密ドライバー|
 |ニッパー等ダイオードの足を切れるもの|
 |エポシキ接着剤|
-
-### オプション
-
-|部品名|数||
-|-|-|-|
-|[SK6812MINI-E](https://shop.yushakobo.jp/products/sk6812mini-e-10)|9|バックライト|
-|[WS2812B](https://shop.yushakobo.jp/products/a0800ws-01-10)|3|アンダーグロー|
-|Type-C版Pro Micro|1|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/promicro_typec)、[Talpkeyboard](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)、[遊舎工房](https://shop.yushakobo.jp/products/sk6812mini-e-10)|
-|3.5mmコンスルー|2|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/conthrough_12_35)、[Talpkeyboard](https://talpkeyboard.net/items/6229e8c130344b271f290c3c)、[マルツ電子](https://www.marutsu.co.jp/pc/i/2349912/)|
-
-色違いのアクリルプレート
-- [キーボードアクリルプレート（遊舎工房）](https://shop.yushakobo.jp/collections/services/products/keyboard_acrylic_plate?variant=43890230296807)
-
 
 ## 準備
 Pro MicroはMicro-USB端子をエポシキ接着剤で補強します。  
