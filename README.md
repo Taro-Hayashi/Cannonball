@@ -190,6 +190,8 @@ USBケーブルを抜いてプレートを組付けます。
 
 先ほどと同様の手順でRemap用のファームウェアに更新しましょう。  
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
+
+![](img/firmware1.png)  
   
 ## キーのカスタマイズ
 こちらのサイトにアクセスしてください。
