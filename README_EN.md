@@ -81,12 +81,12 @@ Access Remap's firmware page with Chrome or Edge.
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 Flash the Test firmware.  
-![](img/remap02.jpg)  
-![](img/remap03.jpg)  
+![](img/test.png)  
+![](img/firmware2.png)  
 
-Push the tactile switch.  
-![](img/remap04.jpg) 
-![](img/remap05.jpg) 
+Push the tactile switch. 
+![](img/firmware3.png)
+![](img/firmware4.png)
 
 Make sure all switches are responsive.  
 If there are no problems, soldering is finished.  
@@ -123,11 +123,9 @@ Access Remap.
 Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
 
-![](img/keymap.png)  
 
-
-After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap3.png)  
+After Drag-and-Drop the keys, press the flash button.
 
 ### Firmware Code
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
@@ -147,4 +145,3 @@ Used plut0nium's footprint.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 - Yushakobo: https://shop.yushakobo.jp/en/products/2797   
-- BOOTH: https://tarohayashi.booth.pm/items/3172502
