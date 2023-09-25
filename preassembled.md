@@ -3,7 +3,7 @@
 ![](img/preassembled.png) 
   
 ## ファームウェアの書き込み
-まずは最新のファームウェアを書き込みます。
+到着したらまずは最新のファームウェアを書き込みます。
 
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
   
