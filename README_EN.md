@@ -81,7 +81,7 @@ Access Remap's firmware page with Chrome or Edge.
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 Flash the Test firmware.  
-![](img/test.png)  
+![](img/firmwaretest.png)  
 ![](img/firmware2.png)  
 
 Push the tactile switch. 

@@ -133,7 +133,7 @@ Choc V2の場合は3本の足を、Choc V1では2本の足と固定用ピンの�
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
 
 テストファームウェアを選んでFLASHします。
-![](img/test.png)  
+![](img/firmwaretest.png)  
 ![](img/firmware2.png)  
 
 キット裏面のリセットスイッチを押すとArduino Microが現れるので、クリックして接続します（リセットスイッチを2回押す必要があることがあります）。
