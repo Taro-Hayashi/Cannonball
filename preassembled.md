@@ -65,6 +65,10 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
+### 謝辞
+plut0nium様のフットプリントを流用、改変して使わせていただきました。  
+https://github.com/plut0nium/0xLib  
+https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
 ### 販売サイト
 - 遊舎工房（組み立てキット）: https://shop.yushakobo.jp/collections/keyboard/products/2797   
 - BOOTH（完成品）: https://tarohayashi.booth.pm/items/3172502
