@@ -62,6 +62,8 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ![](img/remapshortcuts.png)  
 
 
-
+### 販売サイト
+- 遊舎工房（組み立てキット）: https://shop.yushakobo.jp/collections/keyboard/products/2797   
+- BOOTH（完成品）: https://tarohayashi.booth.pm/items/3172502
 
 
