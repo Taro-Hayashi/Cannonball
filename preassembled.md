@@ -61,6 +61,9 @@ Hold-Tapもここから設定できます。
 FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
 ![](img/remapshortcuts.png)  
 
+## その他
+### ファームウェアのフォルダ  
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
 ### 販売サイト
 - 遊舎工房（組み立てキット）: https://shop.yushakobo.jp/collections/keyboard/products/2797   
