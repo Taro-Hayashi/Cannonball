@@ -1,6 +1,6 @@
 ## QMK Toolboxを使ったファームウェア更新方法
 
-QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください（Betaはおすすめしません）。  
+QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください。  
 - [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
 ![](img/release.png)  
