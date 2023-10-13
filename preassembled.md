@@ -13,6 +13,7 @@ Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap
 ![](img/firmware2.png) 
 このようなダイアログが出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
 ![](img/firmware3.png) 
+![](img/ura.png) 
 
 ※通常は1回押すだけで出てきますが2回素早く押す必要があることがあります。
 
