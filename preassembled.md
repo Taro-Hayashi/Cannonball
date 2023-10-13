@@ -1,6 +1,6 @@
 # Cannonball カーソルパッド 取り扱い説明書
 
-![](img/preassembled.png) 
+![](img/preassembled.jpg) 
   
 ## ファームウェアの書き込み
 到着したらまずは最新のファームウェアを書き込みます。
@@ -13,6 +13,7 @@ Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap
 ![](img/firmware2.png) 
 このようなダイアログが出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
 ![](img/firmware3.png) 
+![](img/ura.jpg) 
 
 ※通常は1回押すだけで出てきますが2回素早く押す必要があることがあります。
 

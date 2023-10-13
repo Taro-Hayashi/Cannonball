@@ -235,7 +235,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 
 ### LEDを調整する
 このボタンで発光方法を変更することができます。
-![](../img/custom/remapled.png)  
+![](img/remapledset.png)  
 
 ## その他
 ### ぱいとん様のゆっくり実況動画  
