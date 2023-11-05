@@ -23,7 +23,7 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
 CLOSEを押してキーのカスタマイズに移ります。
 
 ## キーのカスタマイズ
-こちらのサイトにアクセスしてください。
+Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
