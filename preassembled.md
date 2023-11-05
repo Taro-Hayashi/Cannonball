@@ -3,11 +3,11 @@
 ![](img/preassembled.jpg) 
   
 ## ファームウェアの書き込み
-到着したらまずは動作ソフト（ファームウェア）をCannonballに書き込みます。
+到着したらまずは動作ソフト（ファームウェア）をCannonballに書き込みます。  
+Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap用ファームウェアのFlashをクリックします。
 
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
   
-Google ChromeかMicrosoft Edgeでこちらのサイトにアクセスし、Remap用ファームウェアのFlashをクリックします。
 
 ![](img/firmware1.png) 
 ![](img/firmware2.png) 
