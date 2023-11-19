@@ -15,7 +15,7 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
 ![](img/firmware3.png) 
 ![](img/ura.jpg) 
 
-※通常は1回押すだけで出てきますが2回素早く押す必要があることがあります。
+※Type-C版をご購入の場合は2回素早く押してください。
 
 選択して接続を押すと書き込みが始まり、完了します。
 
