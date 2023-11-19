@@ -9,13 +9,16 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
 - https://remap-keys.app/catalog/OkZxVBzfCSGxdg48cNL2/firmware
   
 
-![](img/firmware1.png) 
-![](img/firmware2.png) 
+![](img/firmware1.png)   
+![](img/firmware2.png)   
+  
 このようなダイアログが出てくるのでキット裏面のリセットスイッチを押すと新しく項目が出てきます。
-![](img/firmware3.png) 
-![](img/ura.jpg) 
+  
+![](img/firmware3.png)  
+![](img/ura.jpg)   
+  
 > [!NOTE] 
->※Type-C版をご購入の場合は2回素早く押してください。
+> Type-C版をご購入の場合は2回素早く押してください。
 
 選択して接続を押すと書き込みが始まり、完了します。
 
