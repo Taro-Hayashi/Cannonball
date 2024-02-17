@@ -23,7 +23,7 @@ Google ChromeかMicrosoft Edgeでこちらにアクセスし、Remap用ファー
 CLOSEを押してファームウエアの書き込みは完了です。
 
 ## キーのカスタマイズ
-Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
+Google ChromeかMicrosoft Edgeでこちらにアクセスしてください。
 - Remap https://remap-keys.app
 
 ![](img/remap1.png)  
