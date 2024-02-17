@@ -14,13 +14,13 @@ Google Chrome（Microsoft Edge）でこちらにアクセスし、Remap用ファ
   
 キット裏面のリセットスイッチを２回素早く押すと新しく項目が出てきます。
   
-![](img/firmware3.png)  
 ![](img/ura.jpg)   
+![](img/firmware3.png)  
 
-選択して接続を押すと書き込みが始まり、完了します。
+選択して接続を押すと書き込みが始まります。
 
 ![](img/firmware4.png) 
-CLOSEを押してキーのカスタマイズに移ります。
+CLOSEを押してファームウエアの書き込みは完了です。
 
 ## キーのカスタマイズ
 Google Chrome（Microsoft Edge）でこちらにアクセスしてください。
