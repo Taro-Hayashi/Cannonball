@@ -7,7 +7,7 @@
   
 ## ご用意いただくもの
 - USBケーブル
-- Windows/Mac/Linux（iPad、Androiで使用はできますが設定ができません）
+- Windows/Mac/Linux（iPad、Androidでも使用できますが設定ができません）
   
 ## ファームウェアの書き込み
 まず動作ソフト（ファームウェア）をCannonballに書き込みます。  
