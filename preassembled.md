@@ -1,6 +1,13 @@
 # Cannonball カーソルパッド 取り扱い説明書
 
+## 内容品
+- Handyman マクロパッド 1個
+
 ![](img/preassembled.jpg) 
+  
+## ご用意いただくもの
+- Type-C USBケーブル
+- Windows/Mac/Linux（iPad、Androiで使用はできますが設定ができません）
   
 ## ファームウェアの書き込み
 まず動作ソフト（ファームウェア）をCannonballに書き込みます。  
