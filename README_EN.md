@@ -42,7 +42,7 @@
 
 ## Soldering
 Install the diodes from D1 to D13.  
-![](img/IMG_1794.jpg)  
+![](img/diode.jpg)  
 Diodes have a direction.  
 
 Bend the legs parallel to the diode to prevent interference with the key switch later.  
