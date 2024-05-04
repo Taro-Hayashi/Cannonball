@@ -238,10 +238,6 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ![](img/remapledset.png)  
 
 ## その他
-### ぱいとん様のゆっくり実況動画  
-ユーザーの方が組み立ての手順をとてもわかりやすく動画にしてくださいました。   
-ご購入の前に雰囲気を掴んだり、ビルドガイドと一緒に見ながら作業するとわかりやすいと思いますのでぜひご覧ください。  
-[![](http://img.youtube.com/vi/m9hnfXNCipo/0.jpg)](https://www.youtube.com/watch?v=m9hnfXNCipo)  
 
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
