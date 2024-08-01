@@ -131,7 +131,7 @@ After Drag-and-Drop the keys, press the flash button.
 - https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
 ### Plates data  
-- [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)  
+- [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.22.3/cannonball_plates.zip)  
 
 ### Misc
 Used foostan's footprint.  
