@@ -243,7 +243,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
 ### プレートのデザインデータ  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/latest/download/cannonball_plates.zip)  
+[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.22.3/cannonball_plates.zip)  
 発注先のルールに沿ってデータを修正してください。  
 
 ### 謝辞
