@@ -75,6 +75,8 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 スイッチはキーキャップ側から見て下部の2点ではんだ付けされています。上部を持ち上げるように手前に引っ張ると金具が曲がり隙間が出来てしまうことがあります。
 キーキャップ引き抜き用の工具を使い側面を掴み垂直に引き抜く事を意識すると抜きやすいです。
 ![](img/pull.jpg)  
+※2U（長いキー）はスイッチの向きが違うので縦横を変えて考えてください。
+
 
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
