@@ -133,15 +133,4 @@ After Drag-and-Drop the keys, press the flash button.
 ### Plates data  
 - [cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/0.22.3/cannonball_plates.zip)  
 
-### Misc
-Used foostan's footprint.  
-- https://github.com/foostan/kbd/  
-- https://github.com/foostan/kbd/blob/master/LICENSE  
-
-Used plut0nium's footprint.  
-- https://github.com/plut0nium/0xLib  
-- https://github.com/plut0nium/0xLib/blob/master/LICENSE.txt  
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
-
 - Yushakobo: https://shop.yushakobo.jp/en/products/2797   
